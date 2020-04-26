@@ -18,6 +18,7 @@
     - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Installing The ENB](#installing-the-enb)
     - [Using Bodyslide](#build-bodyslide-files)
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
@@ -44,7 +45,6 @@
     - [Normal Animations](#normal-animations)
   - [Pose Mods](#pose-mods)
   - [Outfits](#outfits)
-  - [ENB](#enb)
 - [Uninstalling](#uninstalling)
 - [Contact](#contact)
 - [Changelog](#changelog)
@@ -174,6 +174,23 @@ Copy the following files from the `MO2/Game Folder Files` directory to your game
 - `tbb.dll`
 - `tbbmalloc.dll`
 
+#### Installing The ENB
+
+- Download the latest version of the ENB files [here](http://enbdev.com/download_mod_tesskyrimse.htm)
+
+Extract the following files to the root folder of your Skyrim:
+
+- `d3d11.dll`
+- `d3dcompiler_46e.dll` 
+
+- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) by [LonelyKitsune](https://www.nexusmods.com/skyrimspecialedition/users/49767351)
+
+Download manually for Obsidian Weathers and extract the following files and folder to the root folder of your Skyrim:
+
+- `enbseries`
+- `enblocal.ini`
+- `enbseries.ini`
+
 #### Build BodySlide files
 
 By default everything is built with the Shiva preset. To build for new outfits select the outfit, select the preset, check build morphs and hit build.
@@ -267,7 +284,7 @@ If you created a sexy character or just wanna have some fun screenshotting stuff
 
 Halos Poser is disabled due to the animation limit. You can swap Goma or GSPoses for Halo and rebuild Nemesis to use it.
 
-### ENB: Silent Horizon
+### Installing Silent Horizon
 
 - [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) by [LonelyKitsune](https://www.nexusmods.com/skyrimspecialedition/users/49767351)
 
