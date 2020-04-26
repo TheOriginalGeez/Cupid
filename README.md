@@ -3,6 +3,7 @@
 - [What to Expect](#what-to-expect)
 - [Requirements](#requirements)
   - [System Specs](#system-specs)
+    - [My Specs](#my-specs)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Steam Config](#steam-settings)
@@ -68,6 +69,14 @@ You log into Nexus and LoversLab in the login manager located inside Wabbajack a
 - RAM: >= 8GBs
 
 Everything should be installed on an SSD or HDD that has at least 150GBs of space available.
+
+#### My Specs
+
+- CPU: AMD Ryzen 5 3600
+- GPU: RTX 2070 Super
+- Game and list installed on a HDD.
+
+I almost never drop below 60FPS in the overworld and I'm usually around 100FPS in non intense situations. Some rooms in Aether Suite can tank my FPS from 90ish to 65ish but that's about it.
 
 ## Installation
 
