@@ -30,6 +30,8 @@
   - [Outfit Mods](#outfit-mods)
   - [Poses](#poses)
   - [ENB: Silent Horizon](#enb-silent-horizon)
+- [Content for Screenshots](#content-for-screenshots)
+    - [New Places](#new-places)
 - [Creating your Character](#creating-your-character)
 - [In-Game MCM Options](#in-game-mcm-options)
 - [Adding more Mods](#adding-more-mods)
@@ -210,16 +212,6 @@ The following mods have a more _supportive_ role and do not fit any of the other
 - WetFunctionRedux (adds sweaty and wet effects to the body and increases in intensity under certain conditions)
 - GenderBenderSE (easy futa support)
 
-## Content For Screenshots
-
-### New Places
-
-I added a few modern looking places to the game incase anyone wanted to take screenshots or use SexLab there.
-
-- GomaPeroLand SE
-- Bathing Beauties Luxury Suite
-- Aether Suite
-
 ### Character Mods
 
 I went with [CBBE 3BBB Advanced](https://www.nexusmods.com/skyrimspecialedition/mods/30174/).
@@ -283,6 +275,16 @@ Download manually for Obsidian Weathers and extract the following files and fold
 - `enbseries`
 - `enblocal.ini`
 - `enbseries.ini`
+
+## Content For Screenshots
+
+### New Places
+
+I added a few modern looking places to the game incase anyone wanted to take screenshots or use SexLab there.
+
+- GomaPeroLand SE
+- Bathing Beauties Luxury Suite
+- Aether Suite
 
 ## Creating your Character
 
