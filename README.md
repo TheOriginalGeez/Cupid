@@ -37,7 +37,6 @@
 - [Adding more Mods](#adding-more-mods)
   - [Using LOOT](#using-loot)
   - [Textures](#textures)
-    - [Skin Textures](#skin-textures)
   - [Animations](#animations)
     - [SLAL Animations](#slal-animations)
     - [Normal Animations](#normal-animations)
