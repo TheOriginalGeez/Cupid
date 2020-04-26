@@ -25,7 +25,6 @@
 
 - DynDOLOD Resources SE
 - HD LODs Textures SE
-- TexGen_Output
 - DynDOLOD_Output
 
 ## Textures and Meshes
