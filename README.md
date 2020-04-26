@@ -439,7 +439,7 @@ In the _Hotkeys_ tab set Show Pose to Mouse 4 or Mouse 5.
 - Select \[AddItemMenuSE - Search]
 - Exit the menu.
 
-Now when you shout (or press Z by defualt) you can search for any item, armor, clothing etc. in the game.
+Now when you shout (or press Z by default) you can search for any item, armor, clothing etc. in the game.
 
 - Search for "Aether Suite"
 - Take the Aether Suite Spell Tome
