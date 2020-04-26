@@ -536,3 +536,5 @@ You can just remove the MO2 folder. Don't forget to uninstall the files you copi
 ## Contact
 
 You can always reach me on the [Wabbajack Discord](https://discord.gg/wabbajack). **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+
+###### Thanks Erri for the README layout.
