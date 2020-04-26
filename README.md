@@ -176,9 +176,7 @@ Copy the following files from the `MO2/Game Folder Files` directory to your game
 
 #### Installing the ENB
 
-- Download the latest version of the ENB files [here](http://enbdev.com/download_mod_tesskyrimse.htm)
-
-Extract the following files to the root folder of your Skyrim:
+- Download the latest version of the ENB files [here](http://enbdev.com/download_mod_tesskyrimse.htm) and extract the following files to the root folder of your Skyrim:
 
 - `d3d11.dll`
 - `d3dcompiler_46e.dll` 
