@@ -189,7 +189,16 @@ Download [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mo
 
 #### Build BodySlide files
 
-By default everything is built with the Shiva preset. To build for new outfits select the outfit, select the preset, check build morphs and hit build.
+By default everything is fit to the Shiva body preset. 
+
+To build new bodyslides do the following:
+- Open the big dropdown on the right side of MO2 and click edit.
+- Select bodyslide and make sure MO2 is pointing to the correct location of BodySlide x64.exe (inside `Cupid\mods\BodySlide and Outfit Studio\CalienteTools\BodySlide`) then hit apply and close the window.
+- Open Bodyslide through the icon on the top.
+- Select the outfit to build on the very top.
+- Select the preset to use just beneath that.
+- Check Build Morphs on the bottom left.
+- Click Build.
 
 ## Updating
 
