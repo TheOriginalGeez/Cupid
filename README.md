@@ -49,7 +49,7 @@
 
 ![cupid-logo](cupid.png)
 
-**This Modlist contains sexual content and you need to be of legal age in your country**.
+**This modlist contains sexual content and you need to be of legal age in your country**.
 
 ## What To Expect
 
