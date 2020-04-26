@@ -139,7 +139,7 @@ Downloading and installing this list can take a while depending on your specs. T
 
 1) Open Wabbajack.
 2) Load the Modlist from Disk.
-3) Adjust the download and installation paths (EX: D:\Modding\Cupid , D:\Modding\SSEDownloads).
+3) Adjust the installation and download paths (EX: D:\Modding\Cupid , D:\Modding\SSEDownloads).
 4) Click the start button.
 5) Wait for Wabbajack to finish.
 
