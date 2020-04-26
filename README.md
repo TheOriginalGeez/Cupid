@@ -23,6 +23,7 @@
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [SexLab - Frameworks](#sexlab---frameworks)
   - [SexLab - Animations](#sexlab---animations)
+  - [SexLab - Others](#sexlab---others)
   - [Character Mods](#character-mods)
   - [NPC Retextures](#npc-retextures)
   - [UI](#ui)
