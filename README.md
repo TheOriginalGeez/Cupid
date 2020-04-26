@@ -17,6 +17,7 @@
     - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
+    - [Using Bodyslide](#building-bodyslide-files)
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [SexLab - Frameworks](#sexlab---frameworks)
