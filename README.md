@@ -34,6 +34,8 @@
     - [New Places](#new-places)
 - [Creating your Character](#creating-your-character)
 - [In-Game MCM Options](#in-game-mcm-options)
+- [In-Game Instructions](#in-game-instructions)
+  - [Setting Up Initial Inventory and Spells](#setting-up-initial-inventory-and-spells)
 - [Adding more Mods](#adding-more-mods)
   - [Using LOOT](#using-loot)
   - [Textures](#textures)
@@ -418,6 +420,36 @@ In the _General_ section do the following:
 ### Poser Hotkeys Plus
 
 In the _Hotkeys_ tab set Show Pose to Mouse 4 or Mouse 5.
+
+## In-Game Instructions
+
+- Save the game to save your MCM settings.
+- Activate the Statue of Mara.
+- Scroll down and hit "I am the owner of the Luxury Suite."
+- Turn behind you, walk up the steps and sleep in the bed.
+
+### Setting Up Initial Inventory and Spells
+
+- Open your inventory.
+- Click on \[AddItemMenuSE Pack]
+- Take all 4 items.
+- Reopen your inventory.
+- Click on both spell tomes.
+- Go to your magic menu.
+- Select \[AddItemMenuSE - Search]
+- Exit the menu.
+
+Now when you shout (or press Z by defualt) you can search for any item, armor, clothing etc. in the game.
+
+- Search for "Aether Suite"
+- Take the Aether Suite Spell Tome
+- Click on the spell tome in your inventory.
+
+You can use this spell to teleport to a HUB with many different modern locations.
+
+You can get to Goma Pero Land by fast traveling to it through the map.
+
+Now go have some fun.
 
 ## Adding more Mods
 
