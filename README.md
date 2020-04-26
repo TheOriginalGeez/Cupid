@@ -47,7 +47,7 @@
 - [Contact](#contact)
 - [Changelog](#changelog)
 
-![lotus-logo](imgs/cupid.png)
+![cupid-logo](imgs/cupid.png)
 
 **This Modlist contains sexual content and you need to be of legal age in your country**.
 
