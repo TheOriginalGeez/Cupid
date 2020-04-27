@@ -1,9 +1,12 @@
 # Cupid
 
+[**Changelog**](CHANGELOG.md)
+
+[**Modlist**](MODLIST.md)
+
 - [What to Expect](#what-to-expect)
 - [Requirements](#requirements)
   - [System Specs](#system-specs)
-    - [My Specs](#my-specs)
 - [Installation](#installation)
   - [Pre-Installation](#pre-installation)
     - [Steam Config](#steam-settings)
@@ -55,7 +58,11 @@
 
 ## What To Expect
 
-Decent graphics for screenshots, posing animations, and plenty of SexLab animations. Gameplay and combat has been left untouched for a small installation size. This list is built around installing and replacing: outfits, armor, pose animations, and SexLab animations.
+Decent graphics setup for screenshots, posing animations, and plenty of SexLab. Gameplay and combat has been left untouched for a smaller installation size. This list is built around installing and replacing: outfits, armor, pose animations, and SexLab animations. I will only provide support for installing outfits, poses, and additional SexLab animations.
+
+**Download Size**: 24GBs
+
+**Total Install Size**: 75GBs
 
 ## Requirements
 
