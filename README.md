@@ -4,6 +4,8 @@
 
 [**Modlist**](MODLIST.md)
 
+[**Trello**](https://trello.com/b/1CVnqDVv/cupid)
+
 - [What to Expect](#what-to-expect)
 - [Requirements](#requirements)
   - [System Specs](#system-specs)
