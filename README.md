@@ -219,6 +219,12 @@ Updating is like installing. You only have to make sure that you select the same
 
 This section contains information about the important mods in this list.
 
+### Loading Screen Replacer
+
+[AirplaneRandy's Erotica Replacer](https://www.loverslab.com/files/file/12278-airplanerandys-erotica-replacer-main-menuloading-screenintro-video/) is installed.
+
+If you don't want lewd loading screens disable this mod in MO2.
+
 ### SexLab - Frameworks
 
 [SexLab Framework](https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/) is the core of all installed LL mods. Do note that this is a **beta build**. [SLAL](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) or _SexLab Animation Loader_ is included as well.
