@@ -27,6 +27,7 @@
     - [Using Bodyslide](#build-bodyslide-files)
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
+  - [Sexy Loading Screens](#loading-screen-replacer)
   - [SexLab - Frameworks](#sexlab---frameworks)
   - [SexLab - Animations](#sexlab---animations)
   - [SexLab - Others](#sexlab---others)
