@@ -35,7 +35,6 @@
   - [UI](#ui)
   - [Outfit Mods](#outfit-mods)
   - [Poses](#poses)
-  - [ENB: Silent Horizon](#enb-silent-horizon)
 - [Content for Screenshots](#content-for-screenshots)
     - [New Places](#new-places)
 - [Creating your Character](#creating-your-character)
