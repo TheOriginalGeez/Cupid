@@ -51,7 +51,6 @@
   - [Outfits](#outfits)
 - [Uninstalling](#uninstalling)
 - [Contact](#contact)
-- [Changelog](#changelog)
 
 ![cupid-logo](cupid.png)
 
