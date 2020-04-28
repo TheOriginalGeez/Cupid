@@ -217,7 +217,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Important Mods you should know about
 
-This section contains information the important mods in this list.
+This section contains information about the important mods in this list.
 
 ### SexLab - Frameworks
 
@@ -294,16 +294,6 @@ If you created a sexy character or just wanna have some fun screenshotting stuff
 
 Halos Poser is disabled due to the animation limit. You can swap Goma or GSPoses for Halo and rebuild Nemesis to use it.
 
-### Installing Silent Horizon
-
-- [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) by [LonelyKitsune](https://www.nexusmods.com/skyrimspecialedition/users/49767351)
-
-Download manually for Obsidian Weathers and extract the following files and folder to the root folder of your Skyrim:
-
-- `enbseries`
-- `enblocal.ini`
-- `enbseries.ini`
-
 ## Content For Screenshots
 
 ### New Places
@@ -312,7 +302,7 @@ I added a few modern looking places to the game incase anyone wanted to take scr
 
 - GomaPeroLand SE
 - Bathing Beauties Luxury Suite
-- Aether Suite
+- Aether Suite SE
 
 ## Creating your Character
 
@@ -322,7 +312,7 @@ If you don't like the idle animation open the console, click on the player and u
 
 ## In-Game MCM Options
 
-Once you're in-game, created your character and want start playing, you first need to configure the MCM. **Wait until no new messages appear in the top left corner!**
+Once you're in-game, have created your character and want to start playing, you first need to configure the MCM. **Wait until no new messages appear in the top left corner!**
 
 If you get no more messages, save the game and open the Mod Configuration Menu in the ESC menu.
 
@@ -408,7 +398,7 @@ In the same _Voices & SFX_ tab under the _Toggle Voices_ _**DISABLE**_ the follo
 
 In the _Toggle Animations_ tab do the following:
 
-- Disable single animation you see using the arrow keys and enter key. (All of these animations have been removed and must be disabled.)
+- Disable/uncheck every single animation you see using the arrow keys and enter key. (All of these animations have been removed and must be disabled.)
 
 In the _Rebuild and Clean_ tab under the _Registry Info_ section do the following:
 
@@ -423,7 +413,7 @@ In the _General Options_ tab do the following:
 
 - Click Enable ALL.
 - Click Register Animations.
-- Wait until a popup appears that says "Registered 92 new animations"
+- Wait until a popup appears that says "Registered X new animations"
 - Hit Accept to close the popup.
 
 ### Wet Function Redux
@@ -439,7 +429,7 @@ In the same _Targets_ tab under the _Current Target_ section click Start Effect.
 In the _General_ section do the following:
 
 - Enable Mod Active.
-- Back out of the MCM all the to in-game.
+- Back out of the MCM all the way to in-game.
 - Wait until it's finished activating. (10 seconds)
 - Go back into the Gender Bender MCM menu.
 - Set Gender Quick Change to Mouse 3.
@@ -486,7 +476,7 @@ When adding a new mod with an esp, open LOOT, click the slanted hamburger menu/l
 
 ### Textures
 
-Textures are by far the easiest mods to install. Simply install the mod and check what other mod also changes the same textures in MO2. The only textures that could be problematic are landscape/environment textures like new mountain textures.
+Textures are by far the easiest mods to install. Simply install the mod and check what other mods (if any) change the same textures in MO2. The only textures that could be problematic are landscape/environment textures like new mountain textures.
 
 #### Skin Textures
 
@@ -522,7 +512,7 @@ Just re-run Nemesis when you decide what combo to run with.
 
 Another category of mods you can easily add to this setup. You only have to make sure that the outfits fit the character body (see [Character Mods](#character-mods)). It's also a good idea to find BodySlide files for that outfit so you can customize it.
 
-Simply install any outfits or armors through MO2 and build them with morphs to the preset you want inside BodySlide.
+Simply install any outfits through MO2 and build them with morphs to the preset you want inside BodySlide.
 
 ### ENB
 
@@ -540,6 +530,6 @@ You can just remove the MO2 folder. Don't forget to uninstall the files you copi
 
 ## Contact
 
-You can always reach me on the [Wabbajack Discord](https://discord.gg/wabbajack). **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+You can always reach me on the [Wabbajack Discord](https://discord.gg/wabbajack). **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU IF NECESSARY**.
 
-###### Thanks Erri for the README layout.
+###### Thanks erri for the README layout.
