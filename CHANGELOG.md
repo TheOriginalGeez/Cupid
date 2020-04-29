@@ -1,7 +1,27 @@
 # Changelog
 
+- [1.0.2](#102)
 - [1.0.1](#101)
 - [1.0.0](#100)
+
+## 1.0.2
+`4-28-20`
+
+**Description**:
+
+Lots of fixes, added clothes, post-install made less annoying. New game required.
+
+**Changes**:
+
+- DynDOLOD and TexGen lowered to 256.
+- Added warning about loading screens to README.
+- Futa schlong skin patched.
+- Smash Patch remade. ESPs without conflicts were removed from the patch. All Smash Patch changes were looked over in SSEEdit and fixed.
+- Deleted SexLab animations are suppressed by default. (You'll no longer need to go through the tedious process of disabling animations.)
+- Lanterns of Skyrim II removed. (Very time consuming to patch and I feel like it doesn't fit Skyrim.)
+- Removed the Shino School outfit.
+- Added Undies.
+- Added Vtaw Wardrobe 4.
 
 ## 1.0.1
 `4-27-2020`
