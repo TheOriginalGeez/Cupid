@@ -436,6 +436,7 @@ In the _Hotkeys_ tab set Show Pose to Mouse 4.
 
 ## In-Game Instructions
 
+- Shift+Enter and enable the fps cap on the left side, then hit save configuration and Shift+Enter to close the menu.
 - Save the game to save your MCM settings.
 - Activate the Statue of Mara.
 - Scroll down and hit "I am the owner of the Luxury Suite."
