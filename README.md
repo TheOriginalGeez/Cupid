@@ -61,9 +61,9 @@
 
 Decent graphics setup for screenshots, posing animations, and plenty of SexLab. Gameplay and combat has been left untouched for a smaller installation size. This list is built around installing and replacing: outfits, armor, pose animations, and SexLab animations. I will only provide support for installing outfits, poses, and additional SexLab animations.
 
-**Download Size**: 24GBs
+**Download Size**: 23GBs
 
-**Total Install Size**: 75GBs
+**Total Install Size**: 73GBs
 
 ## Requirements
 
@@ -403,17 +403,6 @@ In the same _Voices & SFX_ tab under the _Toggle Voices_ _**DISABLE**_ the follo
 - Stimulated (Female)
 - Excitable (Female)
 
-In the _Toggle Animations_ tab do the following:
-
-- Disable/uncheck every single animation you see using the arrow keys and enter key. (All of these animations have been removed and must be disabled.)
-
-In the _Rebuild and Clean_ tab under the _Registry Info_ section do the following:
-
-- Click Suppress Disabled Animations.
-- Click Accept on the popup.
-- Wait until a popup appears saying: "Animation Registry has successfully been reset."
-- Hit Accept to close the popup.
-
 ### SLAL
 
 In the _General Options_ tab do the following:
@@ -443,7 +432,7 @@ In the _General_ section do the following:
 
 ### Poser Hotkeys Plus
 
-In the _Hotkeys_ tab set Show Pose to Mouse 4 or Mouse 5.
+In the _Hotkeys_ tab set Show Pose to Mouse 4.
 
 ## In-Game Instructions
 
