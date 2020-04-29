@@ -9,7 +9,9 @@
 
 **Description**:
 
-Lots of fixes, added clothes, post-install made less annoying. New game required.
+Many fixes, optimizations, added clothes, decreased total install and download size by about 2GBs and post-install was made less annoying.
+
+New game required.
 
 **Changes**:
 
