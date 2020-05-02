@@ -43,7 +43,6 @@
 - [In-Game Instructions](#in-game-instructions)
   - [Setting Up Initial Inventory and Spells](#setting-up-initial-inventory-and-spells)
 - [Adding more Mods](#adding-more-mods)
-  - [Using LOOT](#using-loot)
   - [Textures](#textures)
   - [Animations](#animations)
     - [SLAL Animations](#slal-animations)
