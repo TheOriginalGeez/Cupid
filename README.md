@@ -467,10 +467,6 @@ Now go have some fun.
 
 ## Adding more Mods
 
-### Using LOOT
-
-When adding a new mod with an esp, open LOOT, click the slanted hamburger menu/list looking icon and click apply.
-
 ### Textures
 
 Textures are by far the easiest mods to install. Simply install the mod and check what other mods (if any) change the same textures in MO2. The only textures that could be problematic are landscape/environment textures like new mountain textures.
