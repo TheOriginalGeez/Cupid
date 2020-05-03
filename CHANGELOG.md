@@ -1,9 +1,23 @@
 # Changelog
 
+- [1.0.4](#104)
 - [1.0.3](#103)
 - [1.0.2](#102)
 - [1.0.1](#101)
 - [1.0.0](#100)
+
+## 1.0.4
+`5-3-20`
+
+**Description**:
+
+Implemented every suggestion from the Wabbajack list tester team. Now an official list!
+
+**Changes**:
+
+- Lots of fixes.
+- Polish.
+- Alt-tabbing is a lot better now.
 
 ## 1.0.3
 `5-2-20`
