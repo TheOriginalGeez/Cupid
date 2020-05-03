@@ -25,6 +25,7 @@
     - [Copy Game Folder Files](#copy-game-folder-files)
     - [Installing the ENB](#installing-the-enb)
     - [Using Bodyslide](#build-bodyslide-files)
+    - [Using Nemesis](#nemesis)
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [Sexy Loading Screens](#loading-screen-replacer)
@@ -204,6 +205,13 @@ To build new bodyslides do the following:
 - Select the preset to use just beneath that.
 - Check Build Morphs on the bottom left.
 - Click Build.
+
+#### Nemesis
+
+To build Nemesis for new animations do the following:
+- Make sure _360 Movement Behavior SE_ is checked.
+- Click Update Engine.
+- Click Launch Nemesis Behavior Engine.
 
 ## Updating
 
