@@ -1,8 +1,24 @@
 # Changelog
 
+- [1.0.3](#103)
 - [1.0.2](#102)
 - [1.0.1](#101)
 - [1.0.0](#100)
+
+## 1.0.3
+`5-2-20`
+
+**Description**:
+
+Replaced smash patch with a custom patch, updated SSE Display Tweaks.
+
+New game required.
+
+**Changes**:
+
+- Removed Smash Patch.
+- Added custom Cupid Patch.
+- Updated SSE Display Tweaks and its .ini.
 
 ## 1.0.2
 `4-28-20`
