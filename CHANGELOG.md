@@ -1,10 +1,16 @@
 # Changelog
 
+- [1.1.0](#110)
 - [1.0.4](#104)
 - [1.0.3](#103)
 - [1.0.2](#102)
 - [1.0.1](#101)
 - [1.0.0](#100)
+
+## 1.1.0
+`5-5-20`
+
+Switched default body texture, overhauled men, added Kahjiit and Argonian body textures, added Babo and Billyy's animations, and added RYAMakeup.
 
 ## 1.0.4
 `5-3-20`
