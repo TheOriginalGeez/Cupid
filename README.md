@@ -26,6 +26,7 @@
     - [Installing the ENB](#installing-the-enb)
     - [Using Bodyslide](#build-bodyslide-files)
     - [Using Nemesis](#nemesis)
+    - [How to launch the game](#how-to-launch-the-game)
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
   - [Sexy Loading Screens](#loading-screen-replacer)
@@ -197,6 +198,8 @@ Download [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mo
 
 By default everything is fit to the Shiva body preset. 
 
+NOTE: You DO NOT need to do this unless you have downloaded and installed additional outfits.
+
 To build new bodyslides do the following:
 - Open the big dropdown on the right side of MO2 and click edit.
 - Select bodyslide and make sure MO2 is pointing to the correct location of BodySlide x64.exe (inside `Cupid\mods\BodySlide and Outfit Studio\CalienteTools\BodySlide`) then hit apply and close the window.
@@ -208,10 +211,16 @@ To build new bodyslides do the following:
 
 #### Nemesis
 
+NOTE: You DO NOT need to do this unless you have downloaded and installed additional animations.
+
 To build Nemesis for new animations do the following:
 - Make sure _360 Movement Behavior SE_ is checked.
 - Click Update Engine.
 - Click Launch Nemesis Behavior Engine.
+
+#### How to launch the game
+
+Open _ModOrganizer.exe_ inside the Cupid installation folder, and select SKSE in the big dropdown on the right and click on the run button to the left of the dropdown. You can also click the shortcut button underneath the run button and click Desktop to add a desktop shortcut to launch the game from. Don't launch the game from Steam, don't launch the game from the Skyrim directory.
 
 ## Updating
 
