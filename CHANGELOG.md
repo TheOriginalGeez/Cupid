@@ -1,11 +1,17 @@
 # Changelog
 
+- [1.2.0](#120)
 - [1.1.0](#110)
 - [1.0.4](#104)
 - [1.0.3](#103)
 - [1.0.2](#102)
 - [1.0.1](#101)
 - [1.0.0](#100)
+
+## 1.2.0
+`5-12-20`
+
+Lots of fixes and updates, redid outfit selection, added new strap-ons, added AGO, added Blade and Blunt, added Vokriinator Plus and redid enemy levels with High Level Enemies - Scaled.
 
 ## 1.1.0
 `5-5-20`
