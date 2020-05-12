@@ -2,8 +2,6 @@
 
 [**Changelog**](CHANGELOG.md)
 
-[**Modlist**](MODLIST.md)
-
 [**Cupid Roadmap**](https://trello.com/b/1CVnqDVv/cupid)
 
 - [What to Expect](#what-to-expect)
@@ -60,11 +58,11 @@
 
 ## What To Expect
 
-Decent graphics setup for screenshots, posing animations, and plenty of SexLab. Gameplay and combat has been left untouched for a smaller installation size. This list is built around installing and replacing: outfits, armor, pose animations, and SexLab animations. I will only provide support for installing outfits, poses, and additional SexLab animations.
+Decent graphics setup for screenshots, posing animations, and plenty of SexLab. Gameplay and combat has been changed to be fun and fast. This list is built around installing and replacing: outfits, armor, pose animations, and SexLab animations. I will only provide support for installing outfits, poses, and additional SexLab animations.
 
 **Download Size**: 23GBs
 
-**Total Install Size**: 73GBs
+**Total Install Size**: 72GBs
 
 ## Requirements
 
@@ -76,8 +74,8 @@ You log into Nexus and LoversLab in the login manager located inside Wabbajack a
 
 ### System Specs
 
-- CPU: >= Intel Core i7-6700k OR >= AMD Ryzen 7 2700x
-- GPU: >= GTX 1060 OR >= RX 580
+- CPU: >= Intel Core i7-7700k OR >= AMD Ryzen 5 3600
+- GPU: >= RTX 2060 OR >= RX 5700
 - VRAM: >= 6GBs
 - RAM: >= 8GBs
 
@@ -88,8 +86,6 @@ Everything should be installed on an SSD or HDD that has at least 150GBs of spac
 - CPU: AMD Ryzen 5 3600
 - GPU: RTX 2070 Super
 - Game and list installed on a HDD.
-
-I almost never drop below 60FPS in the overworld and I'm usually around 100FPS in non intense situations. Some rooms in Aether Suite can tank my FPS from 90ish to 65ish but that's about it.
 
 ## Installation
 
@@ -136,9 +132,7 @@ Then, start the game and exit once you're in the main menu.
 
 #### Preparations
 
-Grab the latest release of Cupid from [the release tab](https://github.com/TheOriginalGeez/Cupid/releases).
-
-Download the release to a _working folder_. This folder **must not** be in a common folder like your Desktop, Downloads or Program Files. It's best to create a Wabbajack folder near the root of your drive like `C:/Wabbajack`.
+Create a _working folder_. This folder **must not** be in a common folder like your Desktop, Downloads or Program Files. It's best to create a Wabbajack folder near the root of your drive like `C:/Wabbajack`.
 
 Grab the latest release of Wabbajack from [GitHub](https://github.com/wabbajack-tools/wabbajack/releases) and place `Wabbajack.exe` in the _working folder_.
 
@@ -147,7 +141,7 @@ Grab the latest release of Wabbajack from [GitHub](https://github.com/wabbajack-
 Downloading and installing this list can take a while depending on your specs. To get the fastest speeds put the working folder on an SSD.
 
 1) Open Wabbajack.
-2) Load the Modlist from Disk.
+2) Browse Modlists, check Show NSFW in the top right, and download Cupid.
 3) Adjust the installation and download paths (EX: D:\Modding\Cupid , D:\Modding\SSEDownloads).
 4) Click the start button.
 5) Wait for Wabbajack to finish.
@@ -297,15 +291,14 @@ For loading screens I went with [AirplaneRandy's Erotica Replacer](https://www.l
 
 ### Outfit Mods
 
-- DDWardrobe Nox Outfit
-- DDWardrobe Thalia Outfit
+- BDO Arethel + Heled
 - Osare Underwear
-- Shino School Uniform
-- COCO LaceBody
-- COCO Bikini Collection
+- Undies
+- BDOR kibelius
+- Astaroth Suit
 - Mini Skirts Collection
 
-For a vanilla replacer I'm using BD's 3BBB Armor and Clothes replacer.
+For the vanilla clothes and armor I'm using BD's 3BBB Armor and Clothes replacer.
 
 ### Poses
 
@@ -350,6 +343,10 @@ In the _General_ tab under the _Symbol 1_ section enable the following:
 
 In the _Display_ tab under the _all_ section click Load Preset and select _Arrange as list_.
 
+### AGO
+
+Set these to your personal preferences. (If you don't know what to change just disable persistent arrows.)
+
 ### Immersive Hud
 
 In the _Activation_ tab under the _Compass Activation_ section enable _Key press toggles_.
@@ -375,7 +372,9 @@ In the _General Settings_ tab under the _Global Settings_ section do the followi
 
 - Set Min schlong size to 7.
 - Set Max schlong size to 10.
-- Disable SOS Potions
+- Set Schlong Size Distribution to 100%.
+- Disable Spells.
+- Disable SOS Potions.
 
 In the _Futanari CBBE_ tab set the _NPC schlong type probability_ to 0%.
 
@@ -398,13 +397,13 @@ In the same _Animations Settings_ tab under the _Extra Effects_ section do the f
 - Enable Apply Facial Expressions.
 - Enable Play Ending Orgasm Effects.
 - Enable Allow Female/Female Cum
-- Set Cum Effect Time to 600 Seconds. (or whatever value you'd like)
+- Set Cum Effect Time to 300 Seconds. (or whatever value you'd like)
 - Set NPCs Use Beds to Sometimes.
 
 In the same _Animations Settings_ tab under the _Animation Handling_ section do the following:
 
 - Disable Restrict Aggressive Animations.
-- Disable Females Use Strap-ons.
+- Change Females Use Strap-ons to your preference. (If you keep Strap-ons enabled disable the Calyps Strap-on in the rebuild and clean section of the SexLab MCM.)
 
 In the _Voices & SFX_ tab do the following:
 
@@ -452,7 +451,6 @@ In the _Hotkeys_ tab set Show Pose to Mouse 4.
 
 ## In-Game Instructions
 
-- Shift+Enter and enable the fps cap on the left side, then hit save configuration and Shift+Enter to close the menu.
 - Save the game to save your MCM settings.
 - Activate the Statue of Mara.
 - Scroll down and hit "I am the owner of the Luxury Suite."
