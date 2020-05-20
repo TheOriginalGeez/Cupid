@@ -1,5 +1,6 @@
 # Changelog
 
+- [1.3.0](#130)
 - [1.2.1](#121)
 - [1.2.0](#120)
 - [1.1.0](#110)
@@ -8,6 +9,12 @@
 - [1.0.2](#102)
 - [1.0.1](#101)
 - [1.0.0](#100)
+
+
+## 1.3.0
+`5-20-20`
+
+My final update (for now), added Inari tails and ears and improved FPS. johanlh will be taking over for now. The github will no longer recieve updates.
 
 ## 1.2.1
 `5-12-20`
