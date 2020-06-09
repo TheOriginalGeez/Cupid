@@ -217,7 +217,7 @@ To build Nemesis for new animations do the following:
 
 I removed this by default because it updates super frequently.
 
-Download GSPoses for SE **NOT GS_SLAL**. Then install it with Mod Organizer 2 by clicking the folder icon on the top left and ticking the circle for the mod in the bottom of the left pane, then run [Nemesis](#nemesis). Uncheck the esp on the bottom of the plugins tab on the right pane of MO2. Go here: https://www.nexusmods.com/skyrimspecialedition/mods/17743?tab=files and install the GSPoses optional file (don't forget to tick the mod) and then you're done.
+Download **GSPoses** for *SE* **NOT GS_SLAL** from [here](https://www.loverslab.com/files/file/8148-gsposes-slal/). Then install it with Mod Organizer 2 by clicking the folder icon on the top left and ticking the circle for the mod in the bottom of the left pane, then [run Nemesis](#nemesis). Uncheck the esp on the bottom of the plugins tab on the right pane of MO2. Go [here](https://www.nexusmods.com/skyrimspecialedition/mods/17743?tab=files) and install the GSPoses optional file (don't forget to tick the mod) and then you're done.
 
 #### How to launch the game
 
@@ -433,14 +433,6 @@ In the _General Options_ tab do the following:
 - Click Register Animations.
 - Wait until a popup appears that says "Registered X new animations"
 - Hit Accept to close the popup.
-
-### Wet Function Redux
-
-In the _Auto-Apply_ tab under the _Auto-Apply_ section enable _Globally_
-
-In the _Targets_ tab under the _Select Target_ section click Player:(your player name).
-
-In the same _Targets_ tab under the _Current Target_ section click Start Effect.
 
 ### Gender Bender
 
