@@ -24,6 +24,7 @@
     - [Installing the ENB](#installing-the-enb)
     - [Using Bodyslide](#build-bodyslide-files)
     - [Using Nemesis](#nemesis)
+    - [Installing GSPoses](#installing-gsposes)
     - [How to launch the game](#how-to-launch-the-game)
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
