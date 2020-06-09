@@ -341,15 +341,6 @@ If you get no more messages, save the game and open the Mod Configuration Menu i
 
 When inside this menu press TAB to back out of any config screens.
 
-### A Matter of Time
-
-In the _General_ tab under the _Symbol 1_ section enable the following:
-
-- Show Moon Phases
-- Show Seasons
-
-In the _Display_ tab under the _all_ section click Load Preset and select _Arrange as list_.
-
 ### AGO
 
 Set these to your personal preferences. (If you don't know what to change just disable persistent arrows.)
