@@ -212,9 +212,15 @@ To build Nemesis for new animations do the following:
 - Click Update Engine.
 - Click Launch Nemesis Behavior Engine.
 
+#### Installing GSPoses
+
+I removed this by default because it updates super frequently.
+
+Download GSPoses for SE **NOT GS_SLAL**. Then install it with Mod Organizer 2 by clicking the folder icon on the top left and ticking the circle for the mod in the bottom of the left pane, then run [Nemesis](#nemesis). Uncheck the esp on the bottom of the plugins tab on the right pane of MO2. Go here: https://www.nexusmods.com/skyrimspecialedition/mods/17743?tab=files and install the GSPoses optional file (don't forget to tick the mod) and then you're done.
+
 #### How to launch the game
 
-Open _ModOrganizer.exe_ inside the Cupid installation folder, and select SKSE in the big dropdown on the right and click on the run button to the left of the dropdown. You can also click the shortcut button underneath the run button and click Desktop to add a desktop shortcut to launch the game from. Don't launch the game from Steam, don't launch the game from the Skyrim directory.
+Open _ModOrganizer.exe_ inside the Cupid installation folder, and select SKSE in the big dropdown on the right and click on the run button to the left of the dropdown. You can also click the shortcut button underneath the run button and click Desktop to add a desktop shortcut to launch the game from. Don't launch the game from Steam, don't launch the game from the Skyrim directory and don't launch from any installation of Mod Organizer 2 *other than the one installed by Wabbajack for CUPID*.
 
 ## Updating
 
