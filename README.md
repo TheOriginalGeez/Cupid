@@ -1,9 +1,4 @@
 # Cupid
-
-[**Changelog**](CHANGELOG.md)
-
-[**Cupid Roadmap**](https://trello.com/b/1CVnqDVv/cupid)
-
 - [What to Expect](#what-to-expect)
 - [Requirements](#requirements)
   - [System Specs](#system-specs)
@@ -182,12 +177,6 @@ Download the latest version of the ENB files [here](http://enbdev.com/download_m
 
 - `d3d11.dll`
 - `d3dcompiler_46e.dll` 
-
-Download [Silent Horizons ENB](https://www.nexusmods.com/skyrimspecialedition/mods/21543) manually for Obsidian Weathers and extract the following files and folder to the root folder of your Skyrim:
-
-- `enbseries`
-- `enblocal.ini`
-- `enbseries.ini`
 
 #### Build BodySlide files
 
