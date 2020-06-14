@@ -162,14 +162,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 #### Copy Game Folder Files
 
-Copy the following files from the `MO2/Game Folder Files` directory to your game folder:
-
-- `d3dx9_42.dll`
-- `skse64_1_5_97.dll`
-- `skse64_loader.exe`
-- `skse64_steam_loader.dll`
-- `tbb.dll`
-- `tbbmalloc.dll`
+Copy all of the files from the `MO2/Game Folder Files` directory to your game folder.
 
 #### Installing the ENB
 
@@ -358,8 +351,8 @@ In the same _Config_ tab uncheck the following:
 In the _General Settings_ tab under the _Global Settings_ section do the following:
 
 - Set Min schlong size to 7.
-- Set Max schlong size to 10.
-- Set Schlong Size Distribution to 100%.
+- Set Max schlong size to 12.
+- Set Schlong Size Distribution to 125%.
 - Disable Spells.
 - Disable SOS Potions.
 
