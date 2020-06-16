@@ -58,7 +58,7 @@ Decent graphics setup for screenshots, posing animations, and plenty of SexLab. 
 
 **Download Size**: 23GBs
 
-**Total Install Size**: 72GBs
+**Total Install Size**: 71GBs
 
 ## Requirements
 
@@ -420,6 +420,10 @@ In the _General_ section do the following:
 ### Poser Hotkeys Plus
 
 In the _Hotkeys_ tab set Show Pose to Mouse 4.
+
+### Ultimate Combat and TK Dodge
+
+These mods are both completely up to preference. I recommend turning off Swing Effect in Ultimate Combat at the least and then setting the health ratios to whatever you want. A bigger timed block window can be nice and if you want extra damage on headshots increase the slider. Or just disable all the features of both mods if you'd like, up to you. A good dodge keybind is Mouse 5.
 
 ## In-Game Instructions
 
