@@ -341,7 +341,7 @@ In the _General Settings_ tab under the _Global Settings_ section do the followi
 
 - Set Min schlong size to 7.
 - Set Max schlong size to 12.
-- Set Schlong Size Distribution to 125%.
+- Set Schlong Size Multiplier to 125%.
 - Disable Spells.
 - Disable SOS Potions.
 
