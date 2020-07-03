@@ -56,10 +56,6 @@
 
 Decent graphics setup for screenshots, posing animations, and plenty of SexLab. Gameplay and combat has been changed to be fun and fast. This list is built around installing and replacing: outfits, armor, pose animations, and SexLab animations. I will only provide support for installing outfits, poses, and additional SexLab animations.
 
-**Download Size**: 23GBs
-
-**Total Install Size**: 71GBs
-
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
