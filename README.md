@@ -19,7 +19,6 @@
     - [Installing the ENB](#installing-the-enb)
     - [Using Bodyslide](#build-bodyslide-files)
     - [Using Nemesis](#nemesis)
-    - [Installing GSPoses](#installing-gsposes)
     - [How to launch the game](#how-to-launch-the-game)
 - [Updating](#updating)
 - [Important Mods you should know about](#important-mods-you-should-know-about)
@@ -190,12 +189,6 @@ To build Nemesis for new animations do the following:
 - Make sure _360 Movement Behavior SE_ is checked.
 - Click Update Engine.
 - Click Launch Nemesis Behavior Engine.
-
-#### Installing GSPoses
-
-I removed this by default because it updates super frequently.
-
-Download **GSPoses** for *SE* **NOT GS_SLAL** from [here](https://www.loverslab.com/files/file/8148-gsposes-slal/). Then install it with Mod Organizer 2 by clicking the folder icon on the top left and ticking the circle for the mod in the bottom of the left pane, then [run Nemesis](#nemesis). Uncheck the esp on the bottom of the plugins tab on the right pane of MO2. Go [here](https://www.nexusmods.com/skyrimspecialedition/mods/17743?tab=files) and install the GSPoses optional file (don't forget to tick the mod). Right click the GSPoses mod (the one you downloaded from Lovers Lab that you installed first) and click information, go to the Optional ESPs tab, select the esp on the right pane and click the minus button. Then close out of the menu and you're done.
 
 #### How to launch the game
 
