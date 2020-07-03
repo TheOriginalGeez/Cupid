@@ -425,6 +425,46 @@ In the _Hotkeys_ tab set Show Pose to Mouse 4.
 
 These mods are both completely up to preference. I recommend turning off Swing Effect in Ultimate Combat at the least and then setting the health ratios to whatever you want. A bigger timed block window can be nice and if you want extra damage on headshots increase the slider. Or just disable all the features of both mods if you'd like, up to you. A good dodge keybind is Mouse 5.
 
+### ABMM
+
+In the _Settings_ tab set _Minimum NPC Arousal_ to 60%.
+in the _Settings_ tab set _Minimum Player Arousal_ to 0%.
+In the _More_ tab disable _Horny Idle_.
+
+### No Overpenetration
+
+Tick _Enabled_.
+
+### PC Head Tracking
+
+This is all up to you, if unsure just ignore.
+
+### Quick Light
+
+Set _Type of Light Source_ to _No Special Effect_.
+Set _Brightness_ to _Bright_.
+Disable _Enable to Long Press Activation Key_.
+
+### SexLab Aroused
+
+In the _Settings_ tab in the _Arousal_ section set _Cell Scan Frequency Seconds_ to 30.
+In the _Settings_ tab in the _General_ section disable _Require naked actors to change arousal_.
+
+### SLA Monitor Widget
+
+In the _Widget Looks_ tab in the _Widget Position_ section set _Vertical Offset_ to 60pts.
+
+### SexLab Eager NPCs
+
+In the _General_ tab in the _SLEN Status_ section enable _Mod Enabled_.
+In the same tab in the _SLEN Dialogues_ section enable _Charm Dialogue_.
+In the same tab in the _Virtual Sexlife_ section set _NPCs have a sexlife_ to All NPCs.
+
+### SexLab Cumshot
+
+In the _General_ tab in the _General Settings_ section set Cum Opacity to 0.50.
+In the same tab in the same section disable Show final drip.
+
 ## In-Game Instructions
 
 - Save the game to save your MCM settings.
