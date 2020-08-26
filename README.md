@@ -343,7 +343,47 @@ This makes your character look at whatever you last pointed your crosshair at. S
     
 ### Ultimate Combat
 
-- WIP hold on a sec
+- General
+  - Timed Block
+    - Effective Time: 0.00S
+    - Blur Strength: 0.0
+  - Game Balance Settings
+    - Speed Bonus: Disabled
+  - Others
+    - Swing Effect: Disabled
+  - Stagger
+    - Enemy Poise: Disabled
+    - Player Stagger: Disabled
+    - NPC's Bow Poise: 0.00
+    - Player's Bow Poise: 0.00
+  - Locational Damage
+    - Headshot Damage Mult: 0.0
+    - Headshot Message: Disabled
+    - Locational Damage Sound: Disabled
+    - Locational Damage Effect: Disabled
+- NPC Setting
+  - NPC
+    - Dodge: Click this until it says "DISABLE".
+  - Giant
+    - Max HP Scale: 1.0
+  - Dwarven Centurion
+    - HP Mult: 1.0
+  - Dragon Priest
+    - HP Mult: 1.0
+
+### Unread Books Glow
+- $UBG Book Glow: Click it until it says "$UBG BRIGHT"
+- $UBG Plain Books: Disabled
+
+### ZaZ Animation Pack
+
+This is a hardcore BDSM animation pack and framework. Don't enable it if you aren't into it.
+
+- SexLab
+  - SexLab Integration
+    - SexLab Animations: Click REGISTER and wait until it says REGISTERED.
+
+*You are now done with MCM settings. Continue reading.*
 
 ## In-Game Instructions
 
