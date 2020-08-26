@@ -195,13 +195,12 @@ Once you're not seeing any more messages, open the Mod Configuration Menu in the
 
 When inside this menu press TAB to back out of any config screens. If you click on an MCM menu and it does not appear back out of all the menus (wait for any messages to disappear) and try again.
 
-### THE MCM OPTIONS ARE CURRENTLY BEING REDONE AS OF August 26th 5:11AM PST. Check back in about an hour from when this message was posted. Sorry for the inconvenience.
+### THE MCM OPTIONS ARE CURRENTLY BEING REDONE AS OF August 26th 5:11AM PST. Check back in a few hours from when this message was posted. Sorry for the inconvenience.
 
-### Test
-- Test1
-  - Test2
-    - Test3
-      - Test4
+### Placeholder
+- test
+  - test
+    - test
 
 ## In-Game Instructions
 
