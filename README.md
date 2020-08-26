@@ -129,7 +129,7 @@ Download the latest version of the ENB files [here](http://enbdev.com/download_m
 
 By default everything is fit to the Shiva body preset.
 
-NOTE: You DO NOT have to do this unless you have downloaded and installed additional outfits or want to change the preset.
+NOTE: You DO NOT have to do this unless you want to change the shape of the body.
 
 **To change the bodies shape for the outfits Cupid comes with**:
 - Open the big dropdown on the right side of MO2 and click edit.
