@@ -193,9 +193,7 @@ Once you have created your character and want to start playing, you first need t
 
 Once you're not seeing any more messages, open the Mod Configuration Menu in the ESC menu.
 
-When inside this menu press TAB to back out of any config screens. If you click on an MCM menu and it does not appear back out of all the menus (wait for any messages to disappear) and try again.
-
-### THE MCM OPTIONS ARE BEING REDONE LIVE AS OF August 26th 7:13AM PST. New sections will appear as I finish them. Expect typos. Make sure you are on the [Cupid GitHub](https://github.com/TheOriginalGeez/Cupid/blob/master/README.md) and not on the site to have the information update as fast as possible. 
+**When inside this menu press TAB to back out of any config screens.** ***If you click on an MCM menu and it does not appear back out of all the menus (wait for any messages to disappear) and try again.***
 
 ### ABMM
 
