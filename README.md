@@ -6,7 +6,7 @@
 
 # What To Expect
 
-Decent graphics, good performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is challenging and fast paced, you progress and level fast. I only provide support for installing additional outfits.
+Decent graphics, good performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is challenging and fast paced, you progress and level fast. I no longer provide support for adding anything to the list.
 
 # Requirements
 
@@ -19,17 +19,17 @@ You log into Nexus and LoversLab in the login manager located inside Wabbajack a
 ## Recommended Specs
 
 - CPU: >= Intel Core i7-7700k OR >= AMD Ryzen 5 3600
-- GPU: >= RTX 2060 OR >= RX 5700
-- VRAM: >= 6GBs
+- GPU: >= GTX 1070 OR >= RX 580
+- VRAM: >= 8GBs
 - RAM: >= 8GBs
 
-Everything should be installed on an SSD or HDD that has at least 150GBs of space available.
+Everything should be installed (preferably) on a SSD or HDD that has at least 150GBs of space available.
 
 ### My Specs
 
 - CPU: AMD Ryzen 5 3600
 - GPU: RTX 2070 Super
-- Game and list installed on a HDD.
+- Game and list installed on a SSD.
 
 # Pre-Installation
 
@@ -45,7 +45,7 @@ Skyrim occasionally updates to add Creation Club content. When this happens many
 
 To prevent automatic updates from breaking your game reopen the Properties for SSE, click the Updates tab and change _Automatic updates_ to _Only update this game when I launch it_.
 
-Disable the Steam Cloud too so steam doesn't automatically put saves into your Skyrim after every install.
+Disable the Steam Cloud too (if you'd like) so steam doesn't automatically put saves into your Skyrim after every install.
 
 ## Set the Game language to English
 
@@ -74,14 +74,14 @@ Then, start the game and exit once you're in the main menu.
 
 Create a _working folder_. This folder **must not** be in a common folder like your Desktop, Downloads or Program Files. It's best to create a Wabbajack folder near the root of your drive like `C:/Wabbajack`.
 
-Grab the latest release of Wabbajack from [GitHub](https://github.com/wabbajack-tools/wabbajack/releases) and place `Wabbajack.exe` in the _working folder_.
+Grab the latest release of Wabbajack from [the Wabbajack site](https://wabbajack.org) and place `Wabbajack.exe` in the _working folder_.
 
 ## Downloading and Installing
 
 Downloading and installing this list can take a while depending on your specs. To get the fastest speeds put the working folder on an SSD.
 
 1) Open Wabbajack.
-2) Browse Modlists, check Show NSFW in the top right, and download Cupid.
+2) Browse Modlists, check Show NSFW in the top right and download Cupid.
 3) Adjust the installation and download paths (EX: D:\Modding\Cupid , D:\Modding\SSEDownloads).
 4) Click the start button.
 5) Wait for Wabbajack to finish.
@@ -90,15 +90,19 @@ Downloading and installing this list can take a while depending on your specs. T
 
 There are lots of scenarios where Wabbajack can produce an error. Before asking for support try rerunning Wabbajack to continue from where you last left off.
 
-**Could not download X**:
+### Could not download X:
 
 If a has been mod updated and its old files got deleted it is impossible to download them. In this case you will need to wait for me to update my list.
 
-**X is not a whitelisted download**:
+### X is not a whitelisted download:
 
 This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
-**Wabbajack could not find my game folder**:
+### Wabbajack just closed on me. Is it finished?
+
+No, it has crashed and you will need to try again.
+
+### Wabbajack could not find my game folder:
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
 
@@ -106,29 +110,40 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 ## Copy Game Folder Files
 
-Copy all of the files from the `MO2/Game Folder Files` directory to your game folder.
+- Navigate back to your Cupid installation folder.
+- Open "Game Folder Files"
+- Copy everything inside the Game Folder Files folder.
+- Paste it into your Skyrim SE directory.
+  * Just to clarify, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 4 MBs of files.
 
 ## Installing the ENB
 
 Download the latest version of the ENB files [here](http://enbdev.com/download_mod_tesskyrimse.htm) and extract the following files to the root folder of your Skyrim:
 
 - `d3d11.dll`
-- `d3dcompiler_46e.dll` 
+- `d3dcompiler_46e.dll`
+
+**The ENB preset I use comes in the Game Folder Files folder. If you want to use another ENB make sure it's compatible with Skyrim Special Edition and it's for Obsidian Weathers.**
 
 ## Rebuilding BodySlide files
 
-By default everything is fit to the Shiva body preset. 
+By default everything is fit to the Shiva body preset.
 
 NOTE: You DO NOT have to do this unless you have downloaded and installed additional outfits or want to change the preset.
 
-To change the bodyshape for the outfits Cupid comes with:
+**To change the bodies shape for the outfits Cupid comes with**:
 - Open the big dropdown on the right side of MO2 and click edit.
 - Select bodyslide and make sure MO2 is pointing to the correct location of BodySlide x64.exe (inside `Cupid\mods\BodySlide and Outfit Studio\CalienteTools\BodySlide`) then hit apply and close the window.
 - Run Bodyslide after selecting it in the big dropdown.
-- Select the outfit to build on the very top.
-- Select the preset you want to use just beneath that.
+- Click the magnifying glass icon in the text box above the save button on the top of Bodyslide.
+- Click "Choose Groups..."
+- Make sure only the "Clothes" group is checked.
+- Select the preset you want to use in the Preset dropdown on the top.
 - Check Build Morphs on the bottom left.
-- Click Build.
+- Click "Batch Build..."
+- Click "Build"
+- Click "Ok"
+- Repeat the process but this time making sure only the "Naked Body" group is checked.
 
 # How to launch the game
 
@@ -144,7 +159,7 @@ This means that any additional mods you have installed on top of the Modlist wil
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-# There is a NSFW Loading Screen Replacer. It does not show on the first loading screen.
+# There *is* a NSFW Loading Screen Replacer. It does not show on the first loading screen.
 
 [AirplaneRandy's Erotica Replacer](https://www.loverslab.com/files/file/12278-airplanerandys-erotica-replacer-main-menuloading-screenintro-video/) is installed.
 
@@ -170,13 +185,13 @@ Once you're not seeing any more messages, open the Mod Configuration Menu in the
 
 When inside this menu press TAB to back out of any config screens. If you click on an MCM menu and it does not appear back out of all the menus (wait for any messages to disappear) and try again.
 
-### THE MCM OPTIONS ARE CURRENTLY BEING REDONE AS OF August 26th 4:40AM PST. Check back in about an hour from when this message was posted. Sorry for the inconvenience.
+### THE MCM OPTIONS ARE CURRENTLY BEING REDONE AS OF August 26th 5:11AM PST. Check back in about an hour from when this message was posted. Sorry for the inconvenience.
 
 ## In-Game Instructions
 
 - Save the game to save your MCM settings.
 - Activate the Statue of Mara.
-- Scroll down and hit "I am the owner of the Luxury Suite."
+- Scroll down and choose whatever option you would like. (My preference is to choose the Arrived by Boat > Solitude option. You will be prompted to start LOTD once you spawn in.)
 - Turn behind you, walk up the steps and sleep in the bed.
 
 ### Setting Up Initial Inventory and Spells
@@ -196,7 +211,7 @@ Now when you shout (or press Z by default) you can search for any item, armor, c
 - Take the Aether Suite Spell Tome
 - Click on the spell tome in your inventory.
 
-You can use this spell to teleport to a HUB with many different modern locations.
+You can use this spell to teleport to a HUB with many different modern locations. Useful for screenshots, doesn't have any quests or purpose for gameplay. Same with Goma Pero Land.
 
 You can get to Goma Pero Land by fast traveling to it through the map.
 
@@ -204,8 +219,8 @@ Now go have some fun.
 
 # Uninstalling
 
-You can just remove the MO2 folder. Don't forget to uninstall the files you copied to the game folder as well as your ENB and Silent Horizons if you're no longer using them.
+You can just remove the MO2 folder. Don't forget to uninstall the files you copied to the game folder as well.
 
 # Contact
 
-Join [my Discord server](https://discord.gg/wabbajack) to get the most immediate help. **Please do not DM me, I will not respond**.
+Join [my Discord server](https://discord.gg/XTfvnAh) to get the most immediate help. **Please do not DM me, I will not respond**.
