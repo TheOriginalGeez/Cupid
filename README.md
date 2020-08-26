@@ -6,7 +6,7 @@
 
 # What To Expect
 
-Decent graphics, good performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is challenging and fast paced, you progress and level fast. I no longer provide support for adding anything to the list.
+Decent graphics, good performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is fast and challenging but very fair, you progress and level fast. I no longer provide support for adding anything to the list.
 
 # Requirements
 
