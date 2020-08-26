@@ -4,6 +4,8 @@
 
 **This modlist contains sexual content and you need to be of legal age in your country**.
 
+**Small disclaimer:** You need to read the whole readme. I've tried my best to be as concise as possible. It is crucial that you read this in it's entirety to properly install and play the list.
+
 # What To Expect
 
 Decent graphics, good performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is fast and challenging but very fair, you progress and level fast. I no longer provide support for adding anything to the list.
