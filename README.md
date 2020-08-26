@@ -177,6 +177,13 @@ Hold down the right mouse button to rotate your character.
 
 If you want your character to stay still open the console, click on yourself and use the `player.sae idlestaticposeastart` command.
 
+## Disabling the vanilla Depth of Field.
+
+- Press Esc.
+- Go to Settings > Display.
+- Move the "Depth of Field" slider all the way down to 0.
+- Tab out of this menu until you're back in the game.
+
 ## In-Game MCM Options
 
 Once you have created your character and want to start playing, you first need to configure the MCM. *Do not exit the Alternate Start Prison Cell* **and wait until no new messages appear in the top left corner!**
