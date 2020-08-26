@@ -82,11 +82,11 @@ Grab the latest release of Wabbajack from [the Wabbajack site](https://wabbajack
 
 Downloading and installing this list can take a while depending on your specs. To get the fastest speeds put the working folder on an SSD.
 
-1) Open Wabbajack.
-2) Browse Modlists, check Show NSFW in the top right and download Cupid.
-3) Adjust the installation and download paths (EX: D:\Modding\Cupid , D:\Modding\SSEDownloads).
-4) Click the start button.
-5) Wait for Wabbajack to finish.
+1. Open Wabbajack.
+2. Browse Modlists, check Show NSFW in the top right and download Cupid.
+3. Adjust the installation and download paths (EX: D:\Modding\Cupid , D:\Modding\SSEDownloads).
+4. Click the start button.
+5. Wait for Wabbajack to finish.
 
 ## Problems with Wabbajack
 
@@ -134,6 +134,7 @@ By default everything is fit to the Shiva body preset.
 NOTE: You DO NOT have to do this unless you want to change the shape of the body.
 
 **To change the bodies shape for the outfits Cupid comes with**:
+
 - Open the big dropdown on the right side of MO2 and click edit.
 - Select bodyslide and make sure MO2 is pointing to the correct location of BodySlide x64.exe (inside `Cupid\mods\BodySlide and Outfit Studio\CalienteTools\BodySlide`) then hit apply and close the window.
 - Run Bodyslide after selecting it in the big dropdown.
