@@ -1,6 +1,6 @@
 # Cupid
 
-https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fcupid%2Fbadge.json
+![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fcupid%2Fbadge.json)
 
 ![cupid-logo](cupid.png)
 
@@ -8,7 +8,7 @@ https://img.shields.io/endpoint?style=plastic&url=https%3A%2F%2Fbuild.wabbajack.
 
 ## What To Expect
 
-Decent graphics setup for screenshots, posing animations, and plenty of SexLab. Gameplay and combat has been changed to be fun and fast. This list is built around installing and replacing: outfits, armor, pose animations, and SexLab animations. I will only provide support for installing outfits, poses, and additional SexLab animations.
+Decent graphics, good performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is challenging and fast paced, you progress fast  This list is built around installing and replacing: outfits, armor, pose animations, and SexLab animations. I will only provide support for installing outfits, poses, and additional SexLab animations.
 
 ## Requirements
 
