@@ -253,6 +253,98 @@ This makes your character look at whatever you last pointed your crosshair at. S
 - Facial Expression
   - ON/OFF: Enabled
 
+### Quick Light
+
+- Type of Light Source: Magic
+- Brightness: Bright
+- Enable to Long press activation key: Disabled
+
+### Schlongs Of Skyrim
+
+- General Settings
+  - Global Settings
+    - Min schlong size: 7
+    - Max schlong size: 12
+    - Schlong size multiplier: 150%
+    - SOS potions: Disabled
+    
+### SexLab
+
+- Install
+  - Click INSTALL/UPDATE SEXLAB 1.63 SE DEV BETA 8
+    - Tab back out into the game.
+    - Wait until it says "SexLab - SexLab v1.63 SE dev beta 8 - Ready!" in the top left.
+    - Come back into the SexLab MCM.
+    
+- Sex Diary
+  - Sexual Stats
+    - Sexuality: Personal preference, choose your characters sexuality.
+- Animation Settings
+  - Player Settings
+    - Auto Advance Stages: Disabled
+    - Automatic Free Camera: Enabled
+    - Free Camera Speed: 1
+  - Extra Effects
+    - Apply Facial Expressions: Enabled
+    - Play Ending Orgasm Effects: Enabled
+    - Allow Female/Female Cum: Enabled
+- Voices & SFX
+  - Male Voice Delay: 9 Seconds
+- Rebuild & Clean
+  - Available Strap-ons
+    - Click REMOVE on the Calyps Strapon.
+
+### SexLab Aroused
+
+- Settings
+  - General
+    - Require naked actors to change arousal.: Disabled.
+    - Enable SOS: Enabled
+
+### SexLab Cumshot
+
+- General
+  - General settings
+    - Cum opacity 0.50
+    - Show final drip: Disabled
+
+### SexLab Eager NPCs
+
+- General
+  - SLEN Status
+    - Click "Enable and set defaults".
+    
+### SexLab Solutions
+
+- Miscellaneous
+  - Integration
+    - SLEN integration: Enabled
+    
+### SL Anim Loader
+
+- General Options
+  - SexLab Animation Loader SSE
+    - Click "Enable All" then click Accept.
+    - Click "Register Animations" and wait until a window pops up then click Accept.
+
+### SLA Monitor Widget
+
+- Widget Looks
+  - Widget position
+    - Vertical anchor: Center
+    
+### TDF Aroused Idles
+
+- Settings
+  - Threshold Settings
+    - Threshold 1: 59
+    - Threshold 2: 79
+    - Threshold 3: 100
+    
+### Ultimate Combat
+
+- WIP hold on a sec
+
 ## In-Game Instructions
 
 - Save the game to save your MCM settings.
