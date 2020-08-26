@@ -195,22 +195,63 @@ Once you're not seeing any more messages, open the Mod Configuration Menu in the
 
 When inside this menu press TAB to back out of any config screens. If you click on an MCM menu and it does not appear back out of all the menus (wait for any messages to disappear) and try again.
 
-### THE MCM OPTIONS ARE CURRENTLY BEING REDONE AS OF August 26th 5:11AM PST. Check back in a few hours from when this message was posted. Sorry for the inconvenience.
+### THE MCM OPTIONS ARE BEING REDONE LIVE AS OF August 26th 7:13AM PST. New sections will appear as I finish them. Expect typos. Make sure you are on the [Cupid GitHub](https://github.com/TheOriginalGeez/Cupid/blob/master/README.md) and not on the site to have the information update as fast as possible. 
 
-### ABMM - TEST
+### ABMM
 
 This is a mod that automatically puts you and NPCs into sex scenes based off of how aroused they/you are.
 
 - Settings
-  - Minimum NPC Arousal: This is personal preferance. The lower the value the more often random sex scenes will initiate between NPCs. I recommend 60%
+  - Minimum NPC Arousal: This is personal preference. The lower the value the more often random sex scenes will initiate between NPCs. I recommend 60%
   - Minimum Player Arousal: This chooses how aroused you have to be in order for a sex scene to automatically trigger. The lower the value the more likely a scene will trigger. I recommend 60%
   - SOS Integration: Enabled
   - SLEN integration: Enabled
 - More
   - Horny Idle: Disabled
 
-### Placeholder
+### AGO
 
+- Settings
+  - Arrow Wounds (Player): Disabled
+  - Arrow Wounds (NPCs): Disabled
+  - Persistent Arrows: Disabled
+
+### CGO
+
+- Settings
+  - Unlocked Grip
+    - Hotkey: Personal preference. I recommend "G".
+  - Dodge Roll
+    - Enable iFrames: Enabled
+  - Leaning
+    - Lean Multiplier (1st Person): 0.50
+    - Lean Multiplier (3rd Person): 0.75
+  - Camera Noise
+    - Camera Noise Mult (1st Person): 0.00
+
+### Immersive HUD
+
+- Activation
+  - Compass Activation
+    - Key press toggles: Enabled
+  - SkyUI Active Effects
+    - Link ALL SkyUI Widgets: Enabled
+
+### No Overpenetration
+
+- Enabled: Enabled
+
+### PC Head Tracking
+
+This makes your character look at whatever you last pointed your crosshair at. Sometimes your character will stare at things across the whole room, but it works 80% of the time. If you don't like the sound of this mod, skip this section.
+
+- Head Tracking
+  - ON/OFF: Enabled
+  - Humanize: Enabled
+- Exception Filter
+  - Inanimate Actors: Enabled
+- Facial Expression
+  - ON/OFF: Enabled
 
 ## In-Game Instructions
 
