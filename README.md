@@ -6,6 +6,8 @@
 
 **Small disclaimer:** You need to read the whole readme. I've tried my best to be as concise as possible. It is crucial that you read this in it's entirety to properly install and play the list.
 
+**Quick Update. I'm going to update the guide to reflect this, but there are 2 things I need to make clear: If you are on a 2.0.X update and you want to update to 2.1.0 you must make a new save (if you're on any 1.X.X update you DEFINITELY need to make a new save) stuff *will* break, even if you're not aware of it. Second thing: Do not touch bodyslides at all, as of 2.1.0 this list works differently. Customize your characters body in racemenu (character creation), NPC's bodies are now randomized.**
+
 # What To Expect
 
 Decent graphics, good performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is fast and challenging but very fair, you progress and level fast. I no longer provide support for adding anything to the list.
