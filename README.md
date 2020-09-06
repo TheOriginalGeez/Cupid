@@ -67,6 +67,10 @@ Open the Skyrim Properties window, click the Language tab and select _English_ f
 
 Before installing this list you should uninstall the game through Steam, delete the game folder, delete the _Skyrim Special Edition_ folder inside `Documents/My Games` and reinstall Skyrim.
 
+**Please do this.**
+
+Especially if you have modded your game before and aren't sure what you're doing. Having old modding files in there can and will break your game.
+
 ## Start Skyrim
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
