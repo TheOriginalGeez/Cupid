@@ -6,7 +6,13 @@
 
 **Small disclaimer:** You need to read the whole readme. I've tried my best to be as concise as possible. It is crucial that you read this in it's entirety to properly install and play the list.
 
-**Quick Update. I'm going to update the guide to reflect this, but there are 2 things I need to make clear: If you are on a 2.0.X update and you want to update to 2.1.0 you must make a new save (if you're on any 1.X.X update you DEFINITELY need to make a new save) stuff *will* break, even if you're not aware of it. Second thing: Do not touch bodyslides at all, as of 2.1.0 this list works differently. Customize your characters body in racemenu (character creation), NPC's bodies are now randomized.**
+# Important
+
+**If you are on a 2.0.X update and you want to update to 2.1.0 you must make a new save (if you're on any 1.X.X update you DEFINITELY need to make a new save) stuff *will* break, even if you're not aware of it.**
+
+**Second thing: Do not touch bodyslides at all, as of 2.1.0 this list works differently. Customize your characters body in racemenu (character creation) through the CBBE Morphs tab, NPC's bodies are now randomized. 
+
+**If it's not in this readme don't do it. A few tools come with this for people that know what they're doing. There is no reason to launch any tools if you just want the default Cupid experience. Everything works right out of the box.**
 
 # What To Expect
 
@@ -131,11 +137,13 @@ Download the latest version of the ENB files [here](http://enbdev.com/download_m
 
 ## Rebuilding BodySlide files
 
-By default everything is fit to the Shiva body preset.
+Read [this](#important) again.
 
-NOTE: You DO NOT have to do this unless you want to change the shape of the body.
+NOTE0: Do not do this step unless you've disabled the BodyGen mod in MO2.
 
-**To change the bodies shape for the outfits Cupid comes with**:
+NOTE1: This is only for people who do not want to use BodyGen (randomized NPC bodies.)
+
+NOTE2: If you just want the default Cupid experience SKIP THIS STEP.
 
 - Open the big dropdown on the right side of MO2 and click edit.
 - Select bodyslide and make sure MO2 is pointing to the correct location of BodySlide x64.exe (inside `Cupid\mods\BodySlide and Outfit Studio\CalienteTools\BodySlide`) then hit apply and close the window.
