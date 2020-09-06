@@ -10,7 +10,7 @@
 
 **If you are on a 2.0.X update and you want to update to 2.1.0 you must make a new save (if you're on any 1.X.X update you DEFINITELY need to make a new save) stuff *will* break, even if you're not aware of it.**
 
-**Second thing: Do not touch bodyslides at all, as of 2.1.0 this list works differently. Customize your characters body in racemenu (character creation) through the CBBE Morphs tab, NPC's bodies are now randomized. 
+**Second thing: Do not touch bodyslides at all, as of 2.1.0 this list works differently. Customize your characters body in racemenu (character creation) through the CBBE Morphs tab, NPC's bodies are now randomized.**
 
 **If it's not in this readme don't do it. A few tools come with this for people that know what they're doing. There is no reason to launch any tools if you just want the default Cupid experience. Everything works right out of the box.**
 
