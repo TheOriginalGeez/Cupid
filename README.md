@@ -80,6 +80,8 @@ After you have done everything above and got a clean SSE installation ready, sta
 3) Set _Antialiasing_ to _Off_
 4) Check _Windowed Mode_ and _Borderless_
 
+(Don't worry too much about these values. The values will get overwritten anyway during installation.)
+
 Then, start the game and exit once you're in the main menu.
 
 # Using Wabbajack
