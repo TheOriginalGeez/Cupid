@@ -28,9 +28,9 @@ You log into Nexus and LoversLab in the login manager located inside Wabbajack a
 
 ## Recommended Specs
 
-- CPU: >= Intel Core i7-7700k OR >= AMD Ryzen 5 3600
+- CPU: >= Intel Core i5-8400 OR >= AMD Ryzen 5 2600
 - GPU: >= GTX 1070 OR >= RX 580
-- VRAM: >= 8GBs
+- VRAM: >= 6GBs
 - RAM: >= 8GBs
 
 Everything should be installed (preferably) on a SSD or HDD that has at least 150GBs of space available.
