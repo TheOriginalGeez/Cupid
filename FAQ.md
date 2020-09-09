@@ -43,7 +43,7 @@ You can alternatively disable the BodyGen mod in Mod Organizer ***BEFORE*** star
 
 ## How do I have sex? 
 
-You can start sex through dialogue options, should work on most NPCs. You can force sex through the 2 SexLab debug spells that you spawn with. Sex will also randomly occur based off of the arousal levels of you and the NPCs around you (however you can disable this by unchecking "Player is Allowed." in the ABMM MCM.
+You can start sex through dialogue options, should work on most NPCs. You can force sex through the 2 SexLab debug spells that you spawn with. Sex will also randomly occur based off of the arousal levels of you and the NPCs around you (however you can disable this by unchecking "Player is Allowed." in the ABMM MCM.)
 
 **Other important SexLab controls:**
 
