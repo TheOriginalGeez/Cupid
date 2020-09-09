@@ -49,6 +49,6 @@ You can start sex through dialogue options, should work on most NPCs. You can fo
 
 Press `H` to bring up a menu of animations to select the one you want; sex started through dialogue or the arousal based matchmaking will be limited in this regard. `C and Shift + C` will adjust the angle of the schlong in the animation (it will often be misaligned unfortunately.) `; and :` will adjust the vertical position of (usually) the male in the scene (useful for additional alignment.) Press `[` to fix massive misalignments or characters stuck in T-poses. Press `]` to completely reposition an entire sex scene. `Space` will progress through the animation.
 
-## Any other special keybinds I should know about?
+## Any other keybinds I should know about?
 
 Yes, you should have set some of them yourself like the grip change button for CGO (which switches you between a one-handed or two-handed grip regardless of the weapon you're using. It's similar to Dark Souls.) L will toggle a light above you. Crouch is dodge (while moving) and that's about it.
