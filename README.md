@@ -14,7 +14,7 @@
 
 **If it's not in this readme don't do it. A few tools come with this for people that know what they're doing. There is no reason to launch any tools if you just want the default Cupid experience. Everything works right out of the box.**
 
-## READ THE [FAQ](https://github.com/TheOriginalGeez/Cupid/blob/master/FAQ.md)
+### READ THE [FAQ](https://github.com/TheOriginalGeez/Cupid/blob/master/FAQ.md)
 
 # What To Expect
 
