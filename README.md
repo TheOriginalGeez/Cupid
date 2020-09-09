@@ -77,10 +77,10 @@ Especially if you have modded your game before and aren't sure what you're doing
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
 
-1) Click on _Ultra_
-2) Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
-3) Set _Antialiasing_ to _Off_
-4) Check _Windowed Mode_ and _Borderless_
+1. Click on _Ultra_
+2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
+3. Set _Antialiasing_ to _Off_
+4. Check _Windowed Mode_ and _Borderless_
 
 (Don't worry too much about these values. The values will get overwritten anyway during installation.)
 
