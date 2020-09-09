@@ -47,7 +47,7 @@ You can start sex through dialogue options, should work on most NPCs. You can fo
 
 **Other important SexLab controls:**
 
-Press `H` to bring up a menu of animations to select the one you want; sex started through dialogue or the arousal based matchmaking will be limited in this regard. `C and Shift + C` will adjust the angle of the schlong in the animation (it will often be misaligned unfortunately.) `; and :` will adjust the vertical position of (usually) the male in the scene (useful for additional alignment.) Press `\[` to fix massive misalignments or characters stuck in T-poses. Press `\]` to completely reposition an entire sex scene. `Space` will progress through the animation.
+Press `H` to bring up a menu of animations to select the one you want; sex started through dialogue or the arousal based matchmaking will be limited in this regard. `C and Shift + C` will adjust the angle of the schlong in the animation (it will often be misaligned unfortunately.) `; and :` will adjust the vertical position of (usually) the male in the scene (useful for additional alignment.) Press `[` to fix massive misalignments or characters stuck in T-poses. Press `]` to completely reposition an entire sex scene. `Space` will progress through the animation.
 
 ## Any special keybinds I should know about?
 
