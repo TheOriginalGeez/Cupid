@@ -213,18 +213,6 @@ Once you're not seeing any more messages, open the Mod Configuration Menu in the
 
 **When inside this menu press TAB to back out of any config screens.** ***If you click on an MCM menu and it does not appear back out of all the menus (wait for any messages to disappear) and try again.***
 
-### ABMM
-
-This is a mod that automatically puts you and NPCs into sex scenes based off of how aroused they/you are.
-
-- Settings
-  - Minimum NPC Arousal: This is personal preference. The lower the value the more often random sex scenes will initiate between NPCs. I recommend 60%
-  - Minimum Player Arousal: This chooses how aroused you have to be in order for a sex scene to automatically trigger. The lower the value the more likely a scene will trigger. I recommend 60%
-  - SOS Integration: Enabled
-  - SLEN integration: Enabled
-- More
-  - Horny Idle: Disabled
-
 ### AGO
 
 - Settings
