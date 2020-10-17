@@ -39,7 +39,8 @@ Everything should be installed (preferably) on a SSD or HDD that has at least 15
 
 - CPU: AMD Ryzen 5 3600
 - GPU: RTX 2070 Super
-- Game and list installed on a SSD.
+- RAM: 16GB 3200MHz
+- Game, list and downloads installed on a SSD.
 
 # Pre-Installation
 
@@ -73,16 +74,7 @@ Especially if you have modded your game before and aren't sure what you're doing
 
 ## Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and open the _Options_ menu.
-
-1. Click on _Ultra_
-2. Set the _Aspect Ratio_ and _Resolution_ to your monitor's native values
-3. Set _Antialiasing_ to _Off_
-4. Check _Windowed Mode_ and _Borderless_
-
-(Don't worry too much about these values. The values will get overwritten anyway during installation.)
-
-Then, start the game and exit once you're in the main menu.
+After you have done everything above and got a clean SSE installation ready, start the game and exit once you're in the main menu.
 
 # Using Wabbajack
 
@@ -419,4 +411,4 @@ You can just remove the MO2 folder. Don't forget to uninstall the files you copi
 
 # Contact
 
-Join [my Discord server](https://discord.gg/XTfvnAh) to get the most immediate help. **Please do not DM me, I will not respond**.
+Join [my Discord server](https://discord.gg/hQxGgdV) to get the most immediate help. **Please do not DM me, I will not respond**.
