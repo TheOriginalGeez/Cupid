@@ -4,7 +4,7 @@
 
 **This modlist contains sexual content and you need to be of legal age in your country**.
 
-**Small disclaimer:** You need to read the whole readme. I've tried my best to be as concise as possible. It is crucial that you read this in it's entirety to properly install and play the list.
+**Small disclaimer:** You need to read the whole readme. I've tried my best to be as concise as possible. It is crucial that you read this in it's entirety to properly install and play the list. As of Cupid 2.4.0 the readme is the shortest it has ever been. This is also probably one of the shorter readmes for a WJ list.
 
 # Important
 
@@ -13,6 +13,8 @@
 **If it's not in this readme don't do it. A few tools come with this for people that know what they're doing. There is no reason to launch any tools if you just want the default Cupid experience. Everything works right out of the box.**
 
 ### READ THE [FAQ](https://github.com/TheOriginalGeez/Cupid/blob/master/FAQ.md)
+
+**Read this while it's installing, read each section twice as you're going through it. It's a big readme and every part is very important and reading this as carefully as possible will save you a lot of time.**
 
 # What To Expect
 
