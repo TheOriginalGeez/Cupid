@@ -8,9 +8,7 @@
 
 # Important
 
-**If you are on a 2.0.X update and you want to update to 2.1.0 you must make a new save (if you're on any 1.X.X update you DEFINITELY need to make a new save) stuff *will* break, even if you're not aware of it.**
-
-**Second thing: Do not touch bodyslides at all, as of 2.1.0 this list works differently. Customize your characters body in racemenu (character creation) through the CBBE Morphs tab, NPC's bodies are now randomized.**
+**If you are on a 2.0.X update and you want to update to 2.4.0 you must make a new save (if you're on any 1.X.X update you DEFINITELY need to make a new save) stuff *will* break, even if you're not aware of it.**
 
 **If it's not in this readme don't do it. A few tools come with this for people that know what they're doing. There is no reason to launch any tools if you just want the default Cupid experience. Everything works right out of the box.**
 
@@ -145,13 +143,7 @@ Download the latest version of the ENB files [here](http://enbdev.com/download_m
 
 ## Rebuilding BodySlide files
 
-Read [this](#important) again.
-
-NOTE0: Do not do this step unless you've disabled the BodyGen mod in MO2.
-
-NOTE1: This is only for people who do not want to use BodyGen (randomized NPC bodies.)
-
-NOTE2: If you just want the default Cupid experience SKIP THIS STEP.
+NOTE: This is only for people who want to change the shape of the body from Cupid's default one. Skip this unless you understand what this does.
 
 - Open the big dropdown on the right side of MO2 and click edit.
 - Select bodyslide and make sure MO2 is pointing to the correct location of BodySlide x64.exe (inside `Cupid\mods\BodySlide and Outfit Studio\CalienteTools\BodySlide`) then hit apply and close the window.
@@ -395,6 +387,8 @@ This is a hardcore BDSM animation pack and framework. Don't enable it if you are
 - Activate the Statue of Mara.
 - Scroll down and choose whatever option you would like. (My preference is to choose the Arrived by Boat > Solitude option. You will be prompted to start LOTD once you spawn in.)
 - Turn behind you, walk up the steps and sleep in the bed.
+
+Once you're in the game DISABLE the Weapon Speed Fix in the Weapon Speed Fix MCM. Exit back into the game. Then go back and reenable it. **THIS IS VERY IMPORTANT.**
 
 ### Setting Up Initial Inventory and Spells
 
