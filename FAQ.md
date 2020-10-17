@@ -33,14 +33,6 @@ Why? Because mods often intertwine within your save files. If I remove something
 
 **Needs/survival mods:** Most people find them annoying from what I can tell so I didn't add one. Especially felt out of place since this list wasn't ever really intended for normal gameplay up until a few months ago. If you're going to add one (despite forfieting official support) then use [Immersive Needs - For The Conscientious Modder](https://www.nexusmods.com/skyrimspecialedition/mods/29317). Don't even try iNeed.
 
-## WTF is BodyGen???
-
-Simple answer: It is randomized bodyshapes for NPCs. It's the reason why you're not supposed to change BodySlides. The randomized body shapes are built off of the base shape and you can't change it. If you touch BodySlides at all in the middle of a save that had BodyGen enabled at any point then your save will break and everyone will be super thicc. It's enabled by default and it's the intended way to play Cupid.
-
-Technical answer: It applies racemenu body presets to females in the game randomly. It's based off of the presets that are in the list. It builds these bodyshapes *on top of* the default body shape. So if you change the default bodyshape and disable BodyGen midsave you'd essentially make everyone twice as thicc permanently because BodyGen hooks into your save. Do not do this.
-
-You can alternatively disable the BodyGen mod in Mod Organizer ***BEFORE*** starting a save and build BodySlides to the way you'd like. However this has the obvious side effect of giving everyone the same body shape.
-
 ## How do I have sex? 
 
 You can start sex through dialogue options, should work on most NPCs. You can force sex through the 2 SexLab debug spells that you spawn with. Sex will also randomly occur based off of the arousal levels of you and the NPCs around you (however you can disable this by unchecking "Player is Allowed." in the ABMM MCM.)
