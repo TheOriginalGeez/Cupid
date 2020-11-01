@@ -39,7 +39,11 @@ Yes, you should have set some of them yourself like the sneak button in the TUDM
 ## How to pose yourself and NPCs
 
 First, select a pose from the poser menu by pressing `0`.
-Next, play the pose by pressing `Home`
+
+Next, play the pose by pressing `Home`.
+
 You can use the arrow keys to cycle between poses.
+
 To stop a pose press `End` or just jump.
+
 Same hotkeys apply for NPCs just press `Home` while your crosshair is targetted at the NPC you wish to apply it to.
