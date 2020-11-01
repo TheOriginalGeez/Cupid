@@ -4,38 +4,29 @@ These are the most frequently asked questions. I've tried to go into as much det
 
 ## What scenarios would require me to make a new save and why?
 
-- Every X.0.0 update (ex. 2.0.0)
-- Every 2.X.0 update (ex. 2.1.0 or 2.2.0)
-- 2.1.X are the only updates that *don't* require new saves.
-- Disabling BodyGen (or really any mod in the list.)
+Always assume that you need to start a new save if you update. An update to a list of mods is very different from a update to any other game.
 
-To clarify, if you're updating from any 1.X.X version to the current version you *NEED* to make a new save.
-If you are updating from any 2.X.X update to a 2.X.0 update you *NEED* to make a new save.
-If you're still unsure read the annoucement for the update. If it says it requires a new save then it does, vice versa.
+I will be sure to make note in the annoucement for an update in the unlikely event that an update will be 100% save compatible with the previous version.
 
-Why? Because mods often intertwine within your save files. If I remove something the game will keep acting as if everything is still there and the game will crash when it tries to reference it. Disabling BodyGen mid save doesn't work because the values for all of their bodies are saved within your save file not within the mod. As for when I add mods the answer is simple, most of the time the game will not properly initialize them.
+Why is Skyrim like this? It's because mods often intertwine within your save files. If I remove something the game will keep acting as if everything is still there and the game will crash when it tries to reference it. As for when I add mods the answer is simple, most of the time the game will not properly initialize them.
 
 ## Why isn't X mod included?
 
-**Followers:** No reason actually, feel free to ping me in [my discord](https://discord.com/invite/XTfvnAh) with follower suggestions and I'll probably add them. I have Daedric Bitches and that's all I really care about lol
-
-**Book of UUNP:** I'm thinking about it but there's also an annoying incompatiblity with another mod in the list. No promises.
+**X Follower Mod:** I've added every follower I was ever suggested. Most if not all of the popular ones should be in the list. It's unlikely I would add anymore at this point but I still encourage you to suggest it anyways, you might find yourself pleasantly surprised!
 
 **Immersive Armors:** Immersive Armors isn't included for many reasons, the main ones are: No native CBBE support, no unofficial 3BBB conversions and quite a few armors that I don't like.
 
-**SexLab Defeat:** VERY buggy and I'm not into necrophilia or BDSM. No chances this will ever get added, sorry. Going to add [YeOlde - Respawn](https://www.nexusmods.com/skyrimspecialedition/mods/26691) instead at some point.
+**SexLab Defeat:** VERY buggy and I'm not into necrophilia or BDSM. No chances this will ever get added, sorry. There is a SFW alternative included called [YeOlde - Respawn](https://www.nexusmods.com/skyrimspecialedition/mods/26691) that you can use if you need the respawn feature.
 
-**Creature Support for SexLab:** I'm not into bestiality and it would probably mean the sacrifice of poser mods. Not completely off the table but don't expect this until like 3.0.0 (several months away)
+**Creature Support for SexLab:** Never happening, bottom line I'm just not into it and I don't want it in the list sorry.
 
-**VioLens:** It's planned.
+**Other armors and outfits with 3BBB support:** At this point I've added everything that I wanted to add. If there is a big clothing pack out there that's not in my list I probably know about it and it's not in my list for a specific reason ranging from QoL issues to broken clothes.
 
-**Other armors and outfits with 3BBB support:** I probably know about them and they're planned for a future update. Put them in the suggestions channel in [my discord](https://discord.com/invite/XTfvnAh).
-
-**Needs/survival mods:** Most people find them annoying from what I can tell so I didn't add one. Especially felt out of place since this list wasn't ever really intended for normal gameplay up until a few months ago. If you're going to add one (despite forfieting official support) then use [Immersive Needs - For The Conscientious Modder](https://www.nexusmods.com/skyrimspecialedition/mods/29317). Don't even try iNeed.
+**Needs/survival mods:** I would love to add one but 40% of my polled users didn't want it added.  If you're going to add one (despite forfieting official support) then use [Immersive Needs - For The Conscientious Modder](https://www.nexusmods.com/skyrimspecialedition/mods/29317). Don't even try iNeed.
 
 ## How do I have sex? 
 
-You can start sex through dialogue options, should work on most NPCs. You can force sex through the 2 SexLab debug spells that you spawn with. Sex will also randomly occur based off of the arousal levels of you and the NPCs around you (however you can disable this by unchecking "Player is Allowed." in the ABMM MCM.)
+You can start sex through dialogue options, should work on most NPCs. You can force sex through the MassMatchMaker spells that you start with. Sex will also randomly occur based off of the arousal levels of you and the NPCs around you (however you can disable this by unchecking "Player is Allowed." in the ABMM MCM.)
 
 **Other important SexLab controls:**
 
@@ -43,4 +34,12 @@ Press `H` to bring up a menu of animations to select the one you want; sex start
 
 ## Any other keybinds I should know about?
 
-Yes, you should have set some of them yourself like the grip change button for CGO (which switches you between a one-handed or two-handed grip regardless of the weapon you're using. It's similar to Dark Souls.) L will toggle a light above you. Crouch is dodge (while moving) and that's about it.
+Yes, you should have set some of them yourself like the sneak button in the TUDM MCM and the dodge button which should be whatever you have set to "Sneak" in the control settings. L will toggle a light above you. Read below for posing hotkeys.
+
+## How to pose yourself and NPCs
+
+First, select a pose from the poser menu by pressing `0`.
+Next, play the pose by pressing `Home`
+You can use the arrow keys to cycle between poses.
+To stop a pose press `End` or just jump.
+Same hotkeys apply for NPCs just press `Home` while your crosshair is targetted at the NPC you wish to apply it to.
