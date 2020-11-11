@@ -1,4 +1,4 @@
-![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fcupid%2Fbadge.json) <- If this says failing the list is down.
+![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fcupid%2Fbadge.json) The list is currently down right now. I'm working on getting an Open Beta out for 3.0.0 soon.
 
 ![cupid-logo](cupid.png)
 
