@@ -152,6 +152,8 @@ NOTE: This is only for people who want to change the shape of the body from Cupi
 - Click "Ok"
 - Repeat the process but this time making sure only the "Naked Body" group is checked.
 
+NOTE 2: If you get an error saying one of the objects failed it's completely normal. Just ignore it and continue.
+
 # How to launch the game
 
 Open _ModOrganizer.exe_ inside the Cupid installation folder, and select SKSE in the big dropdown on the right and click on the run button to the left of the dropdown. You can also click the shortcut button underneath the run button and click Desktop to add a desktop shortcut to launch the game from. Don't launch the game from Steam, don't launch the game from the Skyrim directory and don't launch from any installation of Mod Organizer 2 *other than the one installed by Wabbajack for CUPID*.
