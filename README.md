@@ -8,7 +8,7 @@
 
 # Important
 
-**If you are on a 2.0.X update and you want to update to 2.4.0 you must make a new save (if you're on any 1.X.X update you DEFINITELY need to make a new save) stuff *will* break, even if you're not aware of it.**
+**If you are on 2.4.0 or below and you want to update to the 3.0.0 open beta you must make a new save. Every beta update will require a new save, as well as the launch of 3.0.0.**
 
 **If it's not in this readme don't do it. A few tools come with this for people that know what they're doing. There is no reason to launch any tools if you just want the default Cupid experience. Everything works right out of the box.**
 
@@ -198,6 +198,18 @@ Once you have created your character and want to start playing, you first need t
 Once you're not seeing any more messages, open the Mod Configuration Menu in the ESC menu.
 
 **When inside this menu press TAB to back out of any config screens.** ***If you click on an MCM menu and it does not appear back out of all the menus (wait for any messages to disappear) and try again.***
+
+### The Ultimate Dodge Mod
+- 3.0.0 Update placeholder.
+
+### ABMM
+- 3.0.0 Update placeholder.
+
+### Mass Match Maker SE
+- 3.0.0 Update placeholder.
+
+### Storm Lighting 2019 (or whatever it's called)
+- 3.0.0 Update placeholder.
 
 ### AGO
 
