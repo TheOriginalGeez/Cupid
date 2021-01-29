@@ -1,4 +1,4 @@
-![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fcupid%2Fbadge.json) The list is currently down right now. I'm working on getting an Open Beta out for 3.0.0 soon.
+![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fbuild.wabbajack.org%2Flists%2Fstatus%2Fcupid%2Fbadge.json) Cupid 3.0.0 Open Beta is out, check the Github Releases page.
 
 ![cupid-logo](cupid.png)
 
@@ -199,39 +199,43 @@ Once you have created your character and want to start playing, you first need t
 
 Once you're not seeing any more messages, open the Mod Configuration Menu in the ESC menu.
 
-**When inside this menu press TAB to back out of any config screens.** ***If you click on an MCM menu and it does not appear back out of all the menus (wait for any messages to disappear) and try again.***
+**When inside this menu press TAB to back out of any config screens.** ***If you click on an MCM menu and it doesn't load, back out of all the menus (wait for any messages to disappear) and try again.***
 
 ### The Ultimate Dodge Mod
-- 3.0.0 Update placeholder.
+
+- Go into your Skyrim control settings and set the Sneak button to whatever you want your Dodge button to be. I use Mouse4.
+- Scroll down and disable NPC Dodge AI.
+- On the top set whether you want dodging or rolling as your dodge style.
+- Set your sneak key to `LCtrl`.
 
 ### ABMM
-- 3.0.0 Update placeholder.
+- Settings:
+ - Enable `SOS Integration` and `SLEN integration`.
+Then in the other part of this MCM you can choose whether or not you want your character to be forced into sex scenes based off your arousal.
+
+### Dripping When Aroused
+
+- Settings:
+ - Enable `Mod Active`.
+ - Scroll down and disable the `Virginity loss effect` if you don't want to see blood when females lose their viginity.
+
+### Gender Bender
+
+- Set Gender Quick Change to something else. You must change it. I use Mouse 5.
+- Set Swapped Schlong to FUTA CBBE
 
 ### Mass Match Maker SE
-- 3.0.0 Update placeholder.
 
-### Storm Lighting 2019 (or whatever it's called)
-- 3.0.0 Update placeholder.
+- Config:
+ - Set Solo Rate to 0%.
+ - Set Wait Time to 1 sec.
+ - Disable Mass Match Maker Area, Mass Match Maker Mass, Mass Match Maker Gangbang self and Mass Match Maker Gangbang target.
 
 ### AGO
 
 - Settings
   - Arrow Wounds (Player): Disabled
-  - Arrow Wounds (NPCs): Disabled
   - Persistent Arrows: Disabled
-
-### CGO
-
-- Settings
-  - Unlocked Grip
-    - Hotkey: Personal preference. I recommend "G".
-  - Dodge Roll
-    - Enable iFrames: Enabled
-  - Leaning
-    - Lean Multiplier (1st Person): 0.50
-    - Lean Multiplier (3rd Person): 0.75
-  - Camera Noise
-    - Camera Noise Mult (1st Person): 0.00
 
 ### Immersive HUD
 
@@ -259,7 +263,7 @@ This makes your character look at whatever you last pointed your crosshair at. S
 
 ### Quick Light
 
-- Type of Light Source: Magic
+- Type of Light Source: Magic or Lantern
 - Brightness: Bright
 - Enable to Long press activation key: Disabled
 
@@ -269,7 +273,7 @@ This makes your character look at whatever you last pointed your crosshair at. S
   - Global Settings
     - Min schlong size: 7
     - Max schlong size: 12
-    - Schlong size multiplier: 150%
+    - Spells to control erection: Disabled
     - SOS potions: Disabled
     
 ### SexLab
@@ -292,11 +296,10 @@ This makes your character look at whatever you last pointed your crosshair at. S
     - Apply Facial Expressions: Enabled
     - Play Ending Orgasm Effects: Enabled
     - Allow Female/Female Cum: Enabled
+    - Females use Strap-ons: Disabled
+    - Idles Starting: Enabled
 - Voices & SFX
   - Male Voice Delay: 9 Seconds
-- Rebuild & Clean
-  - Available Strap-ons
-    - Click REMOVE on the Calyps Strapon.
 
 ### SexLab Aroused
 
@@ -336,6 +339,8 @@ This makes your character look at whatever you last pointed your crosshair at. S
 - Widget Looks
   - Widget position
     - Vertical anchor: Center
+
+Then close out of all menus and reenter MCM to continue.
     
 ### TDF Aroused Idles
 
@@ -343,7 +348,7 @@ This makes your character look at whatever you last pointed your crosshair at. S
   - Threshold Settings
     - Threshold 1: 59
     - Threshold 2: 79
-    - Threshold 3: 100
+    - Threshold 3: 95
     
 ### Ultimate Combat
 
@@ -375,9 +380,22 @@ This makes your character look at whatever you last pointed your crosshair at. S
   - Dragon Priest
     - HP Mult: 1.0
 
-### Unread Books Glow
-- $UBG Book Glow: Click it until it says "$UBG BRIGHT"
-- $UBG Plain Books: Disabled
+### VioLens
+
+- Melee Section
+ - Killmoves ON: MIXED
+ - Killmove Chance: 30%
+ - Camera View: SMART STATIC
+ - Player Killmove Immunity: Enabled
+ 
+- Ranged Section
+ - Killmoves ON: ARCHERY
+ - Camera View: PROJECTILES
+ - Killmove chance 30%
+
+### YeOlde - Respawn
+
+- This is entirely all preference, you decide if you want to enable it or not and what settings you'd like.
 
 ### ZaZ Animation Pack
 
