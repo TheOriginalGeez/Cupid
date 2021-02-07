@@ -133,8 +133,6 @@ Download the latest version of the ENB files [here](http://enbdev.com/download_m
 - `d3d11.dll`
 - `d3dcompiler_46e.dll`
 
-**The ENB preset I use comes in the Game Folder Files folder. If you want to use another ENB make sure it's compatible with Skyrim Special Edition and it's for Obsidian Weathers.**
-
 ## Rebuilding BodySlide files
 
 NOTE: This is only for people who want to change the shape of the body from Cupid's default one. Skip this unless you understand what this does.
@@ -167,12 +165,6 @@ If this Modlist receives an update, check the Changelog before doing anything. A
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
-
-# There *is* a NSFW Loading Screen Replacer. It does not show on the first loading screen.
-
-[AirplaneRandy's Erotica Replacer](https://www.loverslab.com/files/file/12278-airplanerandys-erotica-replacer-main-menuloading-screenintro-video/) is installed.
-
-If you don't want lewd loading screens disable this mod in MO2.
 
 # Cupid Guide
 
@@ -298,6 +290,7 @@ This makes your character look at whatever you last pointed your crosshair at. S
     - Allow Female/Female Cum: Enabled
     - Females use Strap-ons: Disabled
     - Idles Starting: Enabled
+    - Use Hidden Place: Never
 - Voices & SFX
   - Male Voice Delay: 9 Seconds
 
@@ -348,7 +341,7 @@ Then close out of all menus and reenter MCM to continue.
   - Threshold Settings
     - Threshold 1: 59
     - Threshold 2: 79
-    - Threshold 3: 95
+    - Threshold 3: 90
     
 ### Ultimate Combat
 
@@ -382,16 +375,8 @@ Then close out of all menus and reenter MCM to continue.
 
 ### VioLens
 
-- Melee Section
- - Killmoves ON: MIXED
- - Killmove Chance: 30%
- - Camera View: SMART STATIC
- - Player Killmove Immunity: Enabled
- 
-- Ranged Section
- - Killmoves ON: ARCHERY
- - Camera View: PROJECTILES
- - Killmove chance 30%
+- Profile System
+  - Load: Geez Violens
 
 ### YeOlde - Respawn
 
