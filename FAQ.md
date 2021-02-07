@@ -22,8 +22,6 @@ Why is Skyrim like this? It's because mods often intertwine within your save fil
 
 **Other armors and outfits with 3BBB support:** At this point I've added everything that I wanted to add. If there is a big clothing pack out there that's not in my list I probably know about it and it's not in my list for a specific reason ranging from QoL issues to broken clothes.
 
-**Needs/survival mods:** I would love to add one but 40% of my polled users didn't want it added.  If you're going to add one (despite forfieting official support) then use [Immersive Needs - For The Conscientious Modder](https://www.nexusmods.com/skyrimspecialedition/mods/29317). Don't even try iNeed.
-
 ## How do I have sex? 
 
 You can start sex through dialogue options, should work on most NPCs. You can force sex through the MassMatchMaker spells that you start with. Sex will also randomly occur based off of the arousal levels of you and the NPCs around you (however you can disable this by unchecking "Player is Allowed." in the ABMM MCM.)
