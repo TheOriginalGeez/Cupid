@@ -41,7 +41,7 @@ Everything should be installed (preferably) on a SSD or HDD that has at least 15
 
 - CPU: AMD Ryzen 5 3600
 - GPU: RTX 2070 Super
-- RAM: 16GB 3200MHz
+- RAM: 32GB 3200MHz
 - Game, list and downloads installed on a SSD.
 
 # Pre-Installation
