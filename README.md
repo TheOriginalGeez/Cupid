@@ -208,11 +208,11 @@ Then in the other part of this MCM you can choose whether or not you want your c
 ### Dripping When Aroused
 
 - Settings:
- - Enable `Mod Active`.
  - Scroll down and disable the `Virginity loss effect` if you don't want to see blood when females lose their viginity.
 
 ### Gender Bender
 
+- Enable `Mod Active`.
 - Set Gender Quick Change to something else. You must change it. I use Mouse 5.
 - Set Swapped Schlong to FUTA CBBE
 
