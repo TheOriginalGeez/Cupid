@@ -241,18 +241,6 @@ Then in the other part of this MCM you can choose whether or not you want your c
 
 - Enabled: Enabled
 
-### PC Head Tracking
-
-This makes your character look at whatever you last pointed your crosshair at. Sometimes your character will stare at things across the whole room, but it works 80% of the time. If you don't like the sound of this mod, skip this section.
-
-- Head Tracking
-  - ON/OFF: Enabled
-  - Humanize: Enabled
-- Exception Filter
-  - Inanimate Actors: Enabled
-- Facial Expression
-  - ON/OFF: Enabled
-
 ### Quick Light
 
 - Type of Light Source: Magic or Lantern
