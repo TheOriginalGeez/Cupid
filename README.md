@@ -268,15 +268,18 @@ Then in the other part of this MCM you can choose whether or not you want your c
   - Sexual Stats
     - Sexuality: Personal preference, choose your characters sexuality.
 - Animation Settings
+  - Player Settings:
     - Auto Advance Stages: Disabled
     - Automatic Free Camera: Enabled
     - Free Camera Speed: 1
+  - Extra Effects:
     - Apply Facial Expressions: Enabled
-    - Play Ending Orgasm Effects: Enabled
+    - Play Orgasm Effects: Enabled
     - Allow Female/Female Cum: Enabled
+    - Use Hidden Place: Never
+  - Animation Handling:
     - Females use Strap-ons: Disabled
     - Idles Starting: Enabled
-    - Use Hidden Place: Never
 - Voices & SFX
   - Male Voice Delay: 9 Seconds
 
