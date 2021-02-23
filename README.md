@@ -124,7 +124,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 - Open "Game Folder Files"
 - Copy everything inside the Game Folder Files folder.
 - Paste it into your Skyrim SE directory.
-  * Just to clarify, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 4 MBs of files.
+  * Just to clarify, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 55 MBs of files.
 
 ## Installing the ENB
 
