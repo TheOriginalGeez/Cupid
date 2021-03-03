@@ -18,7 +18,7 @@
 
 # What To Expect
 
-Decent graphics, good performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is fast and challenging but very fair, you progress and level fast. I no longer provide support for adding anything to the list.
+Great graphics, reasonable 1080p performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is fast and challenging but very fair, you progress and level fast. I no longer provide guaranteed support for adding anything to the list, but feel free to ask anyways in my Discord and I may help out when I get the time :)
 
 # Requirements
 
@@ -31,9 +31,10 @@ You log into Nexus and LoversLab in the login manager located inside Wabbajack a
 ## Recommended Specs
 
 - CPU: >= Intel Core i5-8400 OR >= AMD Ryzen 5 2600
-- GPU: >= GTX 1070 OR >= RX 580
-- VRAM: >= 6GBs
-- RAM: >= 8GBs
+- GPU: >= GTX 1080 OR >= RX 590
+- VRAM: >= 8GBs
+- RAM: >= 16GBs
+For 1080p
 
 Everything should be installed (preferably) on a SSD or HDD that has at least 150GBs of space available.
 
@@ -42,7 +43,7 @@ Everything should be installed (preferably) on a SSD or HDD that has at least 15
 - CPU: AMD Ryzen 5 3600
 - GPU: RTX 2070 Super
 - RAM: 32GB 3200MHz
-- Game, list and downloads installed on a SSD.
+- Game, list and downloads installed on a SSD. 1080p monitor.
 
 # Pre-Installation
 
@@ -273,6 +274,7 @@ Then in the other part of this MCM you can choose whether or not you want your c
     - Automatic Free Camera: Enabled
     - Free Camera Speed: 1
   - Extra Effects:
+    - The Lip Sync option (I forgot what the exact name was): Enabled
     - Apply Facial Expressions: Enabled
     - Play Orgasm Effects: Enabled
     - Allow Female/Female Cum: Enabled
