@@ -28,13 +28,12 @@ Great graphics, reasonable 1080p performance, a tame but comprehensive SexLab ex
 
 You log into Nexus and LoversLab in the login manager located inside Wabbajack at the gear at the top. You can install this without a Nexus Premium Account but you will need to click a couple hundred download buttons.
 
-## Recommended Specs
+## Recommended Specs For 1080p
 
 - CPU: >= Intel Core i5-8400 OR >= AMD Ryzen 5 2600
 - GPU: >= GTX 1080 OR >= RX 590
 - VRAM: >= 8GBs
 - RAM: >= 16GBs
-For 1080p
 
 Everything should be installed (preferably) on a SSD or HDD that has at least 150GBs of space available.
 
