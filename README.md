@@ -273,7 +273,7 @@ Then in the other part of this MCM you can choose whether or not you want your c
     - Automatic Free Camera: Enabled
     - Free Camera Speed: 1
   - Extra Effects:
-    - The Lip Sync option (I forgot what the exact name was): Enabled
+    - Play Lip Sync Animation: Enabled
     - Apply Facial Expressions: Enabled
     - Play Orgasm Effects: Enabled
     - Allow Female/Female Cum: Enabled
