@@ -304,12 +304,6 @@ Then in the other part of this MCM you can choose whether or not you want your c
   - SLEN Status
     - Click "Enable and set defaults".
     
-### SexLab Solutions
-
-- Miscellaneous
-  - Integration
-    - SLEN integration: Enabled
-    
 ### SL Anim Loader
 
 - General Options
