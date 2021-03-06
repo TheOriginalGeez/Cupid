@@ -18,7 +18,7 @@
 
 # What To Expect
 
-Great graphics, reasonable 1080p performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is fast and challenging but very fair, you progress and level fast. I no longer provide guaranteed support for adding anything to the list, but feel free to ask anyways in my Discord and I may help out when I get the time :)
+Great graphics, reasonable 1080p performance, a tame but comprehensive SexLab experience and plenty of extra content to explore. Combat is fast and on the easier side, you progress and level fast. I no longer provide guaranteed support for adding anything to the list, but feel free to ask anyways in my Discord and I may help out when I get the time :)
 
 # Requirements
 
