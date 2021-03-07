@@ -14,7 +14,7 @@
 
 ### READ THE [FAQ](https://github.com/TheOriginalGeez/Cupid/blob/master/FAQ.md)
 
-**Read this while it's installing, read each section twice as you're going through it. It's a big readme and every part is very important and reading this as carefully as possible will save you a lot of time.**
+**Read this readme carefully please. It's a big readme, every part is important and reading this as carefully as possible will save you a lot of time.**
 
 # What To Expect
 
@@ -124,7 +124,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 - Open "Game Folder Files"
 - Copy everything inside the Game Folder Files folder.
 - Paste it into your Skyrim SE directory.
-  * Just to clarify, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files." The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, skse_loader, things like that. It's only about 55 MBs of files.
+  * Just to clarify, since there has been some confusion: there is a folder installed by Wabbajack called "Game Folder Files". The contents of this folder are what you need to copy into your Skyrim folder. Not the folder itself, and definitely not everything that Wabbajack installed on your PC. It's just a few .dll files, folders, skse_loader, things like that. It's only about 55 MBs of files.
 
 ## Installing the ENB
 
@@ -187,9 +187,9 @@ If you want your character to stay still open the console, click on yourself and
 
 ## In-Game MCM Options
 
-Once you have created your character and want to start playing, you first need to configure the MCM. *Do not exit the Alternate Start Prison Cell* **and wait until no new messages appear in the top left corner!**
+Once you have created your character and want to start playing, you first need to configure the MCM. **You need to configure your MCMs before leaving the Alternate Start Prison Cell. If you left it before doing your MCMs make a new save.**
 
-Once you're not seeing any more messages, open the Mod Configuration Menu in the ESC menu.
+**Wait until the messages on the top left of your screen completely go away.** Once you're not seeing any more messages, open the Mod Configuration Menu in the ESC menu.
 
 **When inside this menu press TAB to back out of any config screens.** ***If you click on an MCM menu and it doesn't load, back out of all the menus (wait for any messages to disappear) and try again.***
 
@@ -374,11 +374,11 @@ This is a hardcore BDSM animation pack and framework. Don't enable it if you are
   - SexLab Integration
     - SexLab Animations: Click REGISTER and wait until it says REGISTERED.
 
-*You are now done with MCM settings. Continue reading.*
+*You are now done with MCM settings. Don't exit the cell yet, continue reading.*
 
 ## In-Game Instructions
 
-- Save the game to save your MCM settings.
+- **Save the game to save your MCM settings.**
 - Activate the Statue of Mara.
 - Scroll down and choose whatever option you would like. (My preference is to choose the Arrived by Boat > Solitude option. You will be prompted to start LOTD once you spawn in.)
 - Turn behind you, walk up the steps and sleep in the bed.
