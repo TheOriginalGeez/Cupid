@@ -406,7 +406,7 @@ You can use this spell to teleport to a HUB with many different modern locations
 
 You can get to Goma Pero Land by fast traveling to it through the map.
 
-Now go have some fun.
+Now go have some fun and maybe read the [FAQ](https://github.com/TheOriginalGeez/Cupid/blob/master/FAQ.md) again.
 
 # Uninstalling
 
